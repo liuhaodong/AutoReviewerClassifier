@@ -1,0 +1,169 @@
+question 2.
+
+Notice, the avg per-character log-likelihood grows in successive iterations.
+
+-3.6618 // the first 10 avg per-character log-likelihodd
+-2.8218
+-2.8076
+-2.7993
+-2.7938
+-2.7899
+-2.7868
+-2.7843
+-2.7822
+-2.7805
+...	// for the rest, see solution/diary*
+...     // note, I forgot to divide by number of characters in solution/diary
+...     // it's just a constant anyway.
+...
+-2.7299 // final avg per-character log-likehood
+
+-2.7313 // average avg per-character log-likelihood	
+
+question 3.
+
+-The following are the average and final avg log-likelihood for ten runs.
+-Note, I included average avg log-likelihood for completeness. All discussion
+are directed toward final avg log-likelihood.
+
+-They are not the same because the initializing transition and emission
+probabilities are random and Baum-Welch only converges to local minimum.
+-But they are very similar.
+-The fact that they are very similar suggests they all converge to the same
+(possibily global) maximum.
+-Notice, because of the different initial probabilities, there's a large
+variation in number of iterations taken to converge.
+
+# iterations	average avg log-likelihood	final avg log-likelihood
+268             -2.7427                         -2.7299 
+759             -2.7313 	                -2.7299 
+549             -2.8184 	                -2.8153 
+314             -2.7365 	                -2.7299 
+325             -2.7363 	                -2.7299 
+207             -2.7503 	                -2.7299 
+300             -2.7360 	                -2.7299 
+288             -2.7355 	                -2.7286 
+886             -2.8157 	                -2.8138 
+367             -2.7338 	                -2.7286 
+
+question 4.
+
+a =
+
+   0.28076834107745   0.71923165892255
+   0.74433679659257   0.25566320340743
+
+b' =
+
+	state 1			state 2			winner
+
+   0.00663879666574   0.12137670839700	2		// a = 1
+   0.02617551492662   0.00000000000000	1		// b = 2
+   0.04827928308687   0.00000000000000	1		// c = 3
+   0.06747466069973   0.00000000000000	1		// d = 4
+   0.00000000000000   0.23120884542588	2		// e = 5
+   0.03490068656883   0.00000000000000	1		// f = 6
+   0.02501215870766   0.00000000000000	1		// g = 7
+   0.09539519950153   0.00000001082037	1		// h = 8
+   0.00000000000000   0.10416440171531	2		// i = 9
+   0.00174503432844   0.00000000000000	1		// j = 10
+   0.01800966324002   0.00062524972991	1		// k = 11
+   0.06398459204285   0.00000000000000	1		// l = 12
+   0.04420753632051   0.00000000000000	1		// m = 13
+   0.09772192239271   0.00000000000000	1		// n = 14
+   0.00000000000000   0.11981916729102	2		// o = 15
+   0.03315565224038   0.00000000000000	1		// p = 16
+   0.00116320779212   0.00000015363952	1		// q = 17
+   0.10353870348751   0.00000000000000	1		// r = 18
+   0.09772192239271   0.00000000000000	1		// s = 19
+   0.14483784926062   0.00000000000001	1		// t = 20
+   0.00000000000000   0.04515797762224	2		// u = 21
+   0.02035873383181   0.00000000000000	1		// v = 22
+   0.03082893980246   0.00000000000000	1		// w = 23
+   0.00174503432844   0.00000000000000	1		// x = 24
+   0.03652323027295   0.00072889880514	1		// y = 25
+   0.00058167810948   0.00000000000000	1		// z = 26
+   0.00000000000002   0.37691858655363	2		// space = 27
+
+7 most likely characters in state 1
+
+   0.14483784926062 // t
+   0.10353870348751 // r
+   0.09772192239271 // n
+   0.09772192239271 // s
+   0.09539519950153 // h
+   0.06747466069973 // d
+   0.06398459204285 // l
+
+7 most likely characters in state 2
+
+   0.37691858655363	// space
+   0.23120884542588	// e
+   0.12137670839700	// a
+   0.11981916729102	// o
+   0.10416440171531	// i
+   0.04515797762224	// u
+   0.00072889880514	// y
+
+-Yes, it is quite evident that state 1 corresponds to the consonants
+(t,r,n,s,h,d,l) and state 2 corresponds to the vowels (a,e,i,o,u,y,space).
+
+-Notice, I suspect that Baum-Welch will only converge to a set such that ONE of
+the state corresponds to consonants and the other state corresponds to vowels.
+There shouldn't be a constraint that which state be which. I verified this in
+solution/diary1-10 by observing state that correspond to vowel alternates.
+
+question 5.
+
+-No. I don't think I have found a solution whose training-set avg-ll is near the
+maximum.
+-Since we now know states 1 and 2 corresponds to consonants are vowels, a
+natural solution is to initialize with maximum likelihood estimation.
+
+-For transition probabilities, I first convert all consonants to 1 and all
+vowels to 2 and I define Aij to be the bi-gram probability of state i followed
+by state j. 
+-For emission probabilities. For state 1, if a character is consonant, let
+probability be count of that character in training set divide by count of total
+characters; else, probability is 0. Similarly, for state 2, if a character is vowel,
+let probability be MLE in training set; else, probability is 0.
+
+# iterations	average avg log-likelihood	final avg log-likelihood
+0	        -3.431443689                    -3.431443689    // 5a = no training
+3               -2.969571519	                -2.738635434    // 5b = training
+367             -2.73378719	                -2.728599333    // 4 
+
+-Notice, without Baum-Welch training, the log-likehood is already quite good
+(yet not at maximum).
+-With Baum-Welch training, the 5b log-likelihood is very similar to that of 4.
+However, this time it only takes 3 iterations to converge, which is a
+surprsingly good improvement.
+-Thus, I suppose that initializing with MLE reaches similar (possibly global)
+maximum as that of question 4. The improvement is over number of training
+iterations.
+-Notice, training with Baum-Welch can only improve (and not degrade) avg-log-ll
+since log-likehood is monotonically increasing in each iteration.
+
+question 6.
+
+average log-likelihood
+-2.9317                 // training set
+-2.7386                 // testing set
+
+Notice, although testing set's log-likelihood is lower than that of training
+set (which is in the right direction), it is not a very big difference. Thus, I don't think there's significant
+overfitting.
+
+question 7.
+
+		SO WHAT I AM TRYING TO TELL YOU IS THE WHY THAT IS MY POINT AND THAT CONCERNS THE SPIRIT OF THE MATTER
+expected	1221121222212111211212212112122221211221112112122121121221122112112121211211121122112121221211221211212
+viterbi		1221121222212112211212212112222221211221122112122121221221122112112121211211121122112121221211221211212
+                           ^            ^            ^          ^
+-For my expectation, I hand labeled the vowels {a,e,i,o,u,space} to be 2 and the rest to be 1.
+-The reason that I picked {a,e,i,o,u,space} to be vowels are because probability of those
+characters in state 2 are greater than that of state 1, as observed in question 4.
+-The viterbi decoded hidden state sequence is almost the same as expected, except for the "y" character.
+-If I included y as vowels (as in top 7 maximum), then the viterbi decoded hidden state sequence is exactly the same
+as expected. As it turns out, the vowel set of {a,e,i,o,u,y,space} is exactly the
+top 7 most likely characters in state 2. Maybe Roni hand-picked the magical number for us? ;)

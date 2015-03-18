@@ -1,0 +1,1082 @@
+machine	subject	stim	block	start_time	end_time	cond	team	event	score	clock	start_offset	end_offset	type	advertisement	category
+machine	kkchang	Rest	block	2014-10-17 00:25:46	2014-10-17 00:25:56	3	-	-	-	-	-	-	-	-	-
+machine	kkchang	Rest	block	2014-10-17 00:25:56	2014-10-17 00:26:06	3	-	-	-	-	-	-	-	-	-
+machine	kkchang	Rest	block	2014-10-17 00:26:06	2014-10-17 00:26:16	3	-	-	-	-	-	-	-	-	-
+machine	kkchang	Start of video 1	block	2014-10-17 00:26:16	2014-10-17 00:26:17	1	-	Start of video 1	-	-	-	-	-	-	-
+machine	kkchang	Start of quarter	block	2014-10-17 00:26:16	2014-10-17 00:26:17	1	Neutral	Start of quarter	0:0	1ST 15:00	00:00:00	00:00:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:26:17	2014-10-17 00:26:27	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:26:27	2014-10-17 00:26:37	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:26:37	2014-10-17 00:26:47	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:26:47	2014-10-17 00:26:57	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:26:57	2014-10-17 00:27:07	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:27:07	2014-10-17 00:27:17	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:27:17	2014-10-17 00:27:27	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:27:27	2014-10-17 00:27:37	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:27:37	2014-10-17 00:27:47	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:27:47	2014-10-17 00:27:57	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:27:57	2014-10-17 00:28:07	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:28:07	2014-10-17 00:28:17	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:28:17	2014-10-17 00:28:25	1	-	Game	-	-	00:00:01	00:02:09	-	-	-
+machine	kkchang	Touch down	block	2014-10-17 00:28:25	2014-10-17 00:28:32	1	Patriots	Touch down	0:6	1ST 13:31	00:02:09	00:02:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:28:32	2014-10-17 00:28:42	1	-	Game	-	-	00:02:16	00:03:07	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:28:42	2014-10-17 00:28:52	1	-	Game	-	-	00:02:16	00:03:07	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:28:52	2014-10-17 00:29:02	1	-	Game	-	-	00:02:16	00:03:07	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:29:02	2014-10-17 00:29:12	1	-	Game	-	-	00:02:16	00:03:07	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:29:12	2014-10-17 00:29:22	1	-	Game	-	-	00:02:16	00:03:07	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:29:22	2014-10-17 00:29:23	1	-	Game	-	-	00:02:16	00:03:07	-	-	-
+machine	kkchang	Extra point	block	2014-10-17 00:29:23	2014-10-17 00:29:25	1	Patriots	Extra point	0:7	1ST 13:31	00:03:07	00:03:09	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:29:25	2014-10-17 00:29:35	1	-	Game	-	-	00:03:09	00:03:23	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:29:35	2014-10-17 00:29:39	1	-	Game	-	-	00:03:09	00:03:23	-	-	-
+machine	kkchang	PizzaHut	block	2014-10-17 00:29:39	2014-10-17 00:29:49	2	-	-	-	-	00:03:23	00:03:38	full	PizzaHut	food
+machine	kkchang	PizzaHut	block	2014-10-17 00:29:49	2014-10-17 00:29:54	2	-	-	-	-	00:03:23	00:03:38	full	PizzaHut	food
+machine	kkchang	Disney Alexander and the Terrible, Horrible, No Good, Very Bad day	block	2014-10-17 00:29:54	2014-10-17 00:30:04	2	-	-	-	-	00:03:38	00:03:54	full	Disney Alexander and the Terrible, Horrible, No Good, Very Bad day	movie
+machine	kkchang	Disney Alexander and the Terrible, Horrible, No Good, Very Bad day	block	2014-10-17 00:30:04	2014-10-17 00:30:10	2	-	-	-	-	00:03:38	00:03:54	full	Disney Alexander and the Terrible, Horrible, No Good, Very Bad day	movie
+machine	kkchang	Google Android	block	2014-10-17 00:30:10	2014-10-17 00:30:20	2	-	-	-	-	00:03:54	00:04:54	full	Google Android	tech
+machine	kkchang	Google Android	block	2014-10-17 00:30:20	2014-10-17 00:30:30	2	-	-	-	-	00:03:54	00:04:54	full	Google Android	tech
+machine	kkchang	Google Android	block	2014-10-17 00:30:30	2014-10-17 00:30:40	2	-	-	-	-	00:03:54	00:04:54	full	Google Android	tech
+machine	kkchang	Google Android	block	2014-10-17 00:30:40	2014-10-17 00:30:50	2	-	-	-	-	00:03:54	00:04:54	full	Google Android	tech
+machine	kkchang	Google Android	block	2014-10-17 00:30:50	2014-10-17 00:31:00	2	-	-	-	-	00:03:54	00:04:54	full	Google Android	tech
+machine	kkchang	Google Android	block	2014-10-17 00:31:00	2014-10-17 00:31:10	2	-	-	-	-	00:03:54	00:04:54	full	Google Android	tech
+machine	kkchang	Scorpion	block	2014-10-17 00:31:10	2014-10-17 00:31:20	2	-	-	-	-	00:04:54	00:05:14	full	Scorpion	tv
+machine	kkchang	Scorpion	block	2014-10-17 00:31:20	2014-10-17 00:31:30	2	-	-	-	-	00:04:54	00:05:14	full	Scorpion	tv
+machine	kkchang	Game	block	2014-10-17 00:31:30	2014-10-17 00:31:40	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:31:40	2014-10-17 00:31:50	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:31:50	2014-10-17 00:32:00	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:32:00	2014-10-17 00:32:10	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:32:10	2014-10-17 00:32:20	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:32:20	2014-10-17 00:32:30	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:32:30	2014-10-17 00:32:40	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:32:40	2014-10-17 00:32:50	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:32:50	2014-10-17 00:33:00	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:33:00	2014-10-17 00:33:10	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:33:10	2014-10-17 00:33:20	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:33:20	2014-10-17 00:33:30	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:33:30	2014-10-17 00:33:40	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:33:40	2014-10-17 00:33:50	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:33:50	2014-10-17 00:34:00	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:34:00	2014-10-17 00:34:10	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:34:10	2014-10-17 00:34:20	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:34:20	2014-10-17 00:34:30	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:34:30	2014-10-17 00:34:40	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:34:40	2014-10-17 00:34:50	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:34:50	2014-10-17 00:35:00	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:35:00	2014-10-17 00:35:10	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:35:10	2014-10-17 00:35:20	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:35:20	2014-10-17 00:35:30	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:35:30	2014-10-17 00:35:40	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:35:40	2014-10-17 00:35:50	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:35:50	2014-10-17 00:36:00	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:36:00	2014-10-17 00:36:10	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:36:10	2014-10-17 00:36:20	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:36:20	2014-10-17 00:36:30	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:36:30	2014-10-17 00:36:40	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:36:40	2014-10-17 00:36:50	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:36:50	2014-10-17 00:37:00	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:37:00	2014-10-17 00:37:10	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:37:10	2014-10-17 00:37:20	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:37:20	2014-10-17 00:37:30	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:37:30	2014-10-17 00:37:40	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:37:40	2014-10-17 00:37:50	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:37:50	2014-10-17 00:38:00	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:38:00	2014-10-17 00:38:10	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:38:10	2014-10-17 00:38:20	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:38:20	2014-10-17 00:38:30	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:38:30	2014-10-17 00:38:40	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:38:40	2014-10-17 00:38:50	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:38:50	2014-10-17 00:39:00	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:39:00	2014-10-17 00:39:10	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:39:10	2014-10-17 00:39:20	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:39:20	2014-10-17 00:39:30	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:39:30	2014-10-17 00:39:40	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:39:40	2014-10-17 00:39:50	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:39:50	2014-10-17 00:40:00	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:40:00	2014-10-17 00:40:10	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:40:10	2014-10-17 00:40:20	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:40:20	2014-10-17 00:40:30	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:40:30	2014-10-17 00:40:32	1	-	Game	-	-	00:05:14	00:14:16	-	-	-
+machine	kkchang	Field goal	block	2014-10-17 00:40:32	2014-10-17 00:40:37	1	Jets	Field goal	3:7	1ST 06:32	00:14:16	00:14:21	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:40:37	2014-10-17 00:40:46	1	-	Game	-	-	00:14:21	00:14:30	-	-	-
+machine	kkchang	Buffalo Wild Wings	block	2014-10-17 00:40:46	2014-10-17 00:40:56	2	-	-	-	-	00:14:30	00:14:57	full	Buffalo Wild Wings	food
+machine	kkchang	Buffalo Wild Wings	block	2014-10-17 00:40:56	2014-10-17 00:41:06	2	-	-	-	-	00:14:30	00:14:57	full	Buffalo Wild Wings	food
+machine	kkchang	Buffalo Wild Wings	block	2014-10-17 00:41:06	2014-10-17 00:41:13	2	-	-	-	-	00:14:30	00:14:57	full	Buffalo Wild Wings	food
+machine	kkchang	T-Mobile	block	2014-10-17 00:41:13	2014-10-17 00:41:23	2	-	-	-	-	00:14:57	00:15:30	full	T-Mobile	phone
+machine	kkchang	T-Mobile	block	2014-10-17 00:41:23	2014-10-17 00:41:33	2	-	-	-	-	00:14:57	00:15:30	full	T-Mobile	phone
+machine	kkchang	T-Mobile	block	2014-10-17 00:41:33	2014-10-17 00:41:43	2	-	-	-	-	00:14:57	00:15:30	full	T-Mobile	phone
+machine	kkchang	T-Mobile	block	2014-10-17 00:41:43	2014-10-17 00:41:46	2	-	-	-	-	00:14:57	00:15:30	full	T-Mobile	phone
+machine	kkchang	Mazda	block	2014-10-17 00:41:46	2014-10-17 00:41:56	2	-	-	-	-	00:15:30	00:16:00	full	Mazda	car
+machine	kkchang	Mazda	block	2014-10-17 00:41:56	2014-10-17 00:42:06	2	-	-	-	-	00:15:30	00:16:00	full	Mazda	car
+machine	kkchang	Mazda	block	2014-10-17 00:42:06	2014-10-17 00:42:16	2	-	-	-	-	00:15:30	00:16:00	full	Mazda	car
+machine	kkchang	Buffalo Wild Wings	block	2014-10-17 00:42:21	2014-10-17 00:42:26	2	-	-	-	-	00:16:05	00:16:10	pregame	Buffalo Wild Wings	food
+machine	kkchang	T-Mobile	block	2014-10-17 00:42:26	2014-10-17 00:42:31	2	-	-	-	-	00:16:10	00:16:15	pregame	T-Mobile	tech
+machine	kkchang	Mazda	block	2014-10-17 00:42:32	2014-10-17 00:42:38	2	-	-	-	-	00:16:16	00:16:22	pregame	Mazda	car
+machine	kkchang	Game	block	2014-10-17 00:42:38	2014-10-17 00:42:48	1	-	Game	-	-	00:16:22	00:17:06	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:42:48	2014-10-17 00:42:58	1	-	Game	-	-	00:16:22	00:17:06	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:42:58	2014-10-17 00:43:08	1	-	Game	-	-	00:16:22	00:17:06	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:43:08	2014-10-17 00:43:18	1	-	Game	-	-	00:16:22	00:17:06	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:43:18	2014-10-17 00:43:22	1	-	Game	-	-	00:16:22	00:17:06	-	-	-
+machine	kkchang	Lowes	block	2014-10-17 00:43:22	2014-10-17 00:43:32	2	-	-	-	-	00:17:06	00:17:36	full	Lowes	store
+machine	kkchang	Lowes	block	2014-10-17 00:43:32	2014-10-17 00:43:42	2	-	-	-	-	00:17:06	00:17:36	full	Lowes	store
+machine	kkchang	Lowes	block	2014-10-17 00:43:42	2014-10-17 00:43:52	2	-	-	-	-	00:17:06	00:17:36	full	Lowes	store
+machine	kkchang	Michelob ULTRA	block	2014-10-17 00:43:52	2014-10-17 00:44:02	2	-	-	-	-	00:17:36	00:18:06	full	Michelob ULTRA	beer
+machine	kkchang	Michelob ULTRA	block	2014-10-17 00:44:02	2014-10-17 00:44:12	2	-	-	-	-	00:17:36	00:18:06	full	Michelob ULTRA	beer
+machine	kkchang	Michelob ULTRA	block	2014-10-17 00:44:12	2014-10-17 00:44:22	2	-	-	-	-	00:17:36	00:18:06	full	Michelob ULTRA	beer
+machine	kkchang	Outback	block	2014-10-17 00:44:22	2014-10-17 00:44:32	2	-	-	-	-	00:18:06	00:18:21	full	Outback	food
+machine	kkchang	Outback	block	2014-10-17 00:44:32	2014-10-17 00:44:37	2	-	-	-	-	00:18:06	00:18:21	full	Outback	food
+machine	kkchang	St. Vincent	block	2014-10-17 00:44:37	2014-10-17 00:44:47	2	-	-	-	-	00:18:21	00:18:36	full	St. Vincent	movie
+machine	kkchang	St. Vincent	block	2014-10-17 00:44:47	2014-10-17 00:44:52	2	-	-	-	-	00:18:21	00:18:36	full	St. Vincent	movie
+machine	kkchang	NFL Now	block	2014-10-17 00:44:53	2014-10-17 00:45:03	2	-	-	-	-	00:18:37	00:18:52	full	NFL Now	nfl
+machine	kkchang	NFL Now	block	2014-10-17 00:45:03	2014-10-17 00:45:08	2	-	-	-	-	00:18:37	00:18:52	full	NFL Now	nfl
+machine	kkchang	CBS Sports App	block	2014-10-17 00:45:11	2014-10-17 00:45:15	2	-	-	-	-	00:18:55	00:18:59	logo	CBS Sports App	tv
+machine	kkchang	Game	block	2014-10-17 00:45:15	2014-10-17 00:45:25	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:45:25	2014-10-17 00:45:35	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:45:35	2014-10-17 00:45:45	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:45:45	2014-10-17 00:45:55	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:45:55	2014-10-17 00:46:05	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:46:05	2014-10-17 00:46:15	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:46:15	2014-10-17 00:46:25	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:46:25	2014-10-17 00:46:35	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:46:35	2014-10-17 00:46:45	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:46:45	2014-10-17 00:46:55	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:46:55	2014-10-17 00:47:05	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:47:05	2014-10-17 00:47:15	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:47:15	2014-10-17 00:47:17	1	-	Game	-	-	00:18:59	00:21:01	-	-	-
+machine	kkchang	Walmart	block	2014-10-17 00:47:17	2014-10-17 00:47:27	2	-	-	-	-	00:21:01	00:21:15	full	Walmart	store
+machine	kkchang	Walmart	block	2014-10-17 00:47:27	2014-10-17 00:47:31	2	-	-	-	-	00:21:01	00:21:15	full	Walmart	store
+machine	kkchang	Ford	block	2014-10-17 00:47:32	2014-10-17 00:47:42	2	-	-	-	-	00:21:16	00:21:45	full	Ford	car
+machine	kkchang	Ford	block	2014-10-17 00:47:42	2014-10-17 00:47:52	2	-	-	-	-	00:21:16	00:21:45	full	Ford	car
+machine	kkchang	Ford	block	2014-10-17 00:47:52	2014-10-17 00:48:01	2	-	-	-	-	00:21:16	00:21:45	full	Ford	car
+machine	kkchang	HTC	block	2014-10-17 00:48:02	2014-10-17 00:48:12	2	-	-	-	-	00:21:46	00:22:16	full	HTC	tech
+machine	kkchang	HTC	block	2014-10-17 00:48:12	2014-10-17 00:48:22	2	-	-	-	-	00:21:46	00:22:16	full	HTC	tech
+machine	kkchang	HTC	block	2014-10-17 00:48:22	2014-10-17 00:48:32	2	-	-	-	-	00:21:46	00:22:16	full	HTC	tech
+machine	kkchang	McDonald	block	2014-10-17 00:48:32	2014-10-17 00:48:42	2	-	-	-	-	00:22:16	00:22:31	full	McDonald	food
+machine	kkchang	McDonald	block	2014-10-17 00:48:42	2014-10-17 00:48:47	2	-	-	-	-	00:22:16	00:22:31	full	McDonald	food
+machine	kkchang	The McCarthys	block	2014-10-17 00:48:47	2014-10-17 00:48:57	2	-	-	-	-	00:22:31	00:22:41	full	The McCarthys	tv
+machine	kkchang	NFL Thursday Night Football	block	2014-10-17 00:48:59	2014-10-17 00:49:00	2	-	-	-	-	00:22:43	00:22:44	pregame	NFL Thursday Night Football	nfl
+machine	kkchang	Microsoft	block	2014-10-17 00:49:01	2014-10-17 00:49:06	2	-	-	-	-	00:22:45	00:22:50	pregame	Microsoft	tech
+machine	kkchang	Walmart	block	2014-10-17 00:49:06	2014-10-17 00:49:16	2	-	-	-	-	00:22:50	00:23:00	pregame	Walmart	grocery
+machine	kkchang	Game	block	2014-10-17 00:49:16	2014-10-17 00:49:26	1	-	Game	-	-	00:23:00	00:24:33	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:49:26	2014-10-17 00:49:36	1	-	Game	-	-	00:23:00	00:24:33	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:49:36	2014-10-17 00:49:46	1	-	Game	-	-	00:23:00	00:24:33	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:49:46	2014-10-17 00:49:56	1	-	Game	-	-	00:23:00	00:24:33	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:49:56	2014-10-17 00:50:06	1	-	Game	-	-	00:23:00	00:24:33	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:50:06	2014-10-17 00:50:16	1	-	Game	-	-	00:23:00	00:24:33	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:50:16	2014-10-17 00:50:26	1	-	Game	-	-	00:23:00	00:24:33	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:50:26	2014-10-17 00:50:36	1	-	Game	-	-	00:23:00	00:24:33	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:50:36	2014-10-17 00:50:46	1	-	Game	-	-	00:23:00	00:24:33	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:50:46	2014-10-17 00:50:49	1	-	Game	-	-	00:23:00	00:24:33	-	-	-
+machine	kkchang	Lexus Halftime Report	block	2014-10-17 00:50:49	2014-10-17 00:50:59	2	-	-	-	-	00:24:33	00:24:44	logo	Lexus Halftime Report	car
+machine	kkchang	Lexus Halftime Report	block	2014-10-17 00:50:59	2014-10-17 00:51:00	2	-	-	-	-	00:24:33	00:24:44	logo	Lexus Halftime Report	car
+machine	kkchang	Game	block	2014-10-17 00:51:00	2014-10-17 00:51:10	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:51:10	2014-10-17 00:51:20	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:51:20	2014-10-17 00:51:30	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:51:30	2014-10-17 00:51:40	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:51:40	2014-10-17 00:51:50	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:51:50	2014-10-17 00:52:00	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:52:00	2014-10-17 00:52:10	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:52:10	2014-10-17 00:52:20	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:52:20	2014-10-17 00:52:30	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:52:30	2014-10-17 00:52:40	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:52:40	2014-10-17 00:52:50	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:52:50	2014-10-17 00:53:00	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:53:00	2014-10-17 00:53:10	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:53:10	2014-10-17 00:53:14	1	-	Game	-	-	00:24:44	00:26:58	-	-	-
+machine	kkchang	The Amazing Race	block	2014-10-17 00:53:14	2014-10-17 00:53:24	2	-	-	-	-	00:26:58	00:27:10	full	The Amazing Race	tv
+machine	kkchang	The Amazing Race	block	2014-10-17 00:53:24	2014-10-17 00:53:26	2	-	-	-	-	00:26:58	00:27:10	full	The Amazing Race	tv
+machine	kkchang	Game	block	2014-10-17 00:53:26	2014-10-17 00:53:36	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:53:36	2014-10-17 00:53:46	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:53:46	2014-10-17 00:53:56	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:53:56	2014-10-17 00:54:06	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:54:06	2014-10-17 00:54:16	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:54:16	2014-10-17 00:54:26	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:54:26	2014-10-17 00:54:36	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:54:36	2014-10-17 00:54:46	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:54:46	2014-10-17 00:54:56	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:54:56	2014-10-17 00:55:06	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:55:06	2014-10-17 00:55:16	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:55:16	2014-10-17 00:55:26	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:55:26	2014-10-17 00:55:36	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:55:36	2014-10-17 00:55:46	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:55:46	2014-10-17 00:55:56	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:55:56	2014-10-17 00:56:06	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:56:06	2014-10-17 00:56:16	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:56:16	2014-10-17 00:56:26	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:56:26	2014-10-17 00:56:36	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:56:36	2014-10-17 00:56:46	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:56:46	2014-10-17 00:56:56	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:56:56	2014-10-17 00:57:06	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:57:06	2014-10-17 00:57:16	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:57:16	2014-10-17 00:57:26	1	-	Game	-	-	00:27:10	00:31:10	-	-	-
+machine	kkchang	Field goal	block	2014-10-17 00:57:26	2014-10-17 00:57:32	1	Jets	Field goal	6:7	1ST 00:25	00:31:10	00:31:16	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:57:32	2014-10-17 00:57:42	1	-	Game	-	-	00:31:16	00:31:28	-	-	-
+machine	kkchang	Game	block	2014-10-17 00:57:42	2014-10-17 00:57:44	1	-	Game	-	-	00:31:16	00:31:28	-	-	-
+machine	kkchang	Spiriva HandiHaler	block	2014-10-17 00:57:44	2014-10-17 00:57:54	2	-	-	-	-	00:31:28	00:32:28	full	Spiriva HandiHaler	med
+machine	kkchang	Spiriva HandiHaler	block	2014-10-17 00:57:54	2014-10-17 00:58:04	2	-	-	-	-	00:31:28	00:32:28	full	Spiriva HandiHaler	med
+machine	kkchang	Spiriva HandiHaler	block	2014-10-17 00:58:04	2014-10-17 00:58:14	2	-	-	-	-	00:31:28	00:32:28	full	Spiriva HandiHaler	med
+machine	kkchang	Spiriva HandiHaler	block	2014-10-17 00:58:14	2014-10-17 00:58:24	2	-	-	-	-	00:31:28	00:32:28	full	Spiriva HandiHaler	med
+machine	kkchang	Spiriva HandiHaler	block	2014-10-17 00:58:24	2014-10-17 00:58:34	2	-	-	-	-	00:31:28	00:32:28	full	Spiriva HandiHaler	med
+machine	kkchang	Spiriva HandiHaler	block	2014-10-17 00:58:34	2014-10-17 00:58:44	2	-	-	-	-	00:31:28	00:32:28	full	Spiriva HandiHaler	med
+machine	kkchang	NFL Mobile	block	2014-10-17 00:58:44	2014-10-17 00:58:54	2	-	-	-	-	00:32:28	00:32:58	full	NFL Mobile	tech
+machine	kkchang	NFL Mobile	block	2014-10-17 00:58:54	2014-10-17 00:59:04	2	-	-	-	-	00:32:28	00:32:58	full	NFL Mobile	tech
+machine	kkchang	NFL Mobile	block	2014-10-17 00:59:04	2014-10-17 00:59:14	2	-	-	-	-	00:32:28	00:32:58	full	NFL Mobile	tech
+machine	kkchang	NFL GameDay Morning	block	2014-10-17 00:59:15	2014-10-17 00:59:25	2	-	-	-	-	00:32:59	00:33:13	full	NFL GameDay Morning	nfl
+machine	kkchang	NFL GameDay Morning	block	2014-10-17 00:59:25	2014-10-17 00:59:29	2	-	-	-	-	00:32:59	00:33:13	full	NFL GameDay Morning	nfl
+machine	kkchang	NFL Thursday Night Football	block	2014-10-17 00:59:29	2014-10-17 00:59:39	2	-	-	-	-	00:33:13	00:33:39	full	NFL Thursday Night Football	nfl
+machine	kkchang	NFL Thursday Night Football	block	2014-10-17 00:59:39	2014-10-17 00:59:49	2	-	-	-	-	00:33:13	00:33:39	full	NFL Thursday Night Football	nfl
+machine	kkchang	NFL Thursday Night Football	block	2014-10-17 00:59:49	2014-10-17 00:59:55	2	-	-	-	-	00:33:13	00:33:39	full	NFL Thursday Night Football	nfl
+machine	kkchang	Game	block	2014-10-17 00:59:55	2014-10-17 01:00:05	1	-	Game	-	-	00:33:39	00:35:14	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:00:05	2014-10-17 01:00:15	1	-	Game	-	-	00:33:39	00:35:14	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:00:15	2014-10-17 01:00:25	1	-	Game	-	-	00:33:39	00:35:14	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:00:25	2014-10-17 01:00:35	1	-	Game	-	-	00:33:39	00:35:14	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:00:35	2014-10-17 01:00:45	1	-	Game	-	-	00:33:39	00:35:14	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:00:45	2014-10-17 01:00:55	1	-	Game	-	-	00:33:39	00:35:14	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:00:55	2014-10-17 01:01:05	1	-	Game	-	-	00:33:39	00:35:14	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:01:05	2014-10-17 01:01:15	1	-	Game	-	-	00:33:39	00:35:14	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:01:15	2014-10-17 01:01:25	1	-	Game	-	-	00:33:39	00:35:14	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:01:25	2014-10-17 01:01:30	1	-	Game	-	-	00:33:39	00:35:14	-	-	-
+machine	kkchang	End of quarter	block	2014-10-17 01:01:30	2014-10-17 01:01:31	1	Neutral	End of quarter	6:7	1ST 00:00	00:35:14	00:35:15	-	-	-
+machine	kkchang	Elementary	block	2014-10-17 01:01:37	2014-10-17 01:01:47	2	-	-	-	-	00:35:21	00:35:31	full	Elementary	tv
+machine	kkchang	Stalker	block	2014-10-17 01:01:47	2014-10-17 01:01:52	2	-	-	-	-	00:35:31	00:35:36	full	Stalker	tv
+machine	kkchang	GMC	block	2014-10-17 01:01:53	2014-10-17 01:02:03	2	-	-	-	-	00:35:37	00:36:07	full	GMC	car
+machine	kkchang	GMC	block	2014-10-17 01:02:03	2014-10-17 01:02:13	2	-	-	-	-	00:35:37	00:36:07	full	GMC	car
+machine	kkchang	GMC	block	2014-10-17 01:02:13	2014-10-17 01:02:23	2	-	-	-	-	00:35:37	00:36:07	full	GMC	car
+machine	kkchang	Anti Tom Corbett	block	2014-10-17 01:02:23	2014-10-17 01:02:33	2	-	-	-	-	00:36:07	00:36:37	full	Anti Tom Corbett	politics
+machine	kkchang	Anti Tom Corbett	block	2014-10-17 01:02:33	2014-10-17 01:02:43	2	-	-	-	-	00:36:07	00:36:37	full	Anti Tom Corbett	politics
+machine	kkchang	Anti Tom Corbett	block	2014-10-17 01:02:43	2014-10-17 01:02:53	2	-	-	-	-	00:36:07	00:36:37	full	Anti Tom Corbett	politics
+machine	kkchang	McDonald	block	2014-10-17 01:02:53	2014-10-17 01:03:03	2	-	-	-	-	00:36:37	00:37:07	full	McDonald	food
+machine	kkchang	McDonald	block	2014-10-17 01:03:03	2014-10-17 01:03:13	2	-	-	-	-	00:36:37	00:37:07	full	McDonald	food
+machine	kkchang	McDonald	block	2014-10-17 01:03:13	2014-10-17 01:03:23	2	-	-	-	-	00:36:37	00:37:07	full	McDonald	food
+machine	kkchang	KDKA	block	2014-10-17 01:03:23	2014-10-17 01:03:28	2	-	-	-	-	00:37:07	00:37:12	full	KDKA	tv
+machine	kkchang	Hawaii Five-o Blue Bloods	block	2014-10-17 01:03:29	2014-10-17 01:03:39	2	-	-	-	-	00:37:13	00:37:42	full	Hawaii Five-o Blue Bloods	tv
+machine	kkchang	Hawaii Five-o Blue Bloods	block	2014-10-17 01:03:39	2014-10-17 01:03:49	2	-	-	-	-	00:37:13	00:37:42	full	Hawaii Five-o Blue Bloods	tv
+machine	kkchang	Hawaii Five-o Blue Bloods	block	2014-10-17 01:03:49	2014-10-17 01:03:58	2	-	-	-	-	00:37:13	00:37:42	full	Hawaii Five-o Blue Bloods	tv
+machine	kkchang	Start of quarter	block	2014-10-17 01:04:17	2014-10-17 01:04:18	1	Neutral	Start of quarter	6:7	2ND 15:00	00:38:01	00:38:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:04:18	2014-10-17 01:04:28	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:04:28	2014-10-17 01:04:38	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:04:38	2014-10-17 01:04:48	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:04:48	2014-10-17 01:04:58	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:04:58	2014-10-17 01:05:08	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:05:08	2014-10-17 01:05:18	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:05:18	2014-10-17 01:05:28	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:05:28	2014-10-17 01:05:38	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:05:38	2014-10-17 01:05:48	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:05:48	2014-10-17 01:05:58	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:05:58	2014-10-17 01:06:08	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:06:08	2014-10-17 01:06:18	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:06:18	2014-10-17 01:06:28	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:06:28	2014-10-17 01:06:38	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:06:38	2014-10-17 01:06:48	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:06:48	2014-10-17 01:06:58	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:06:58	2014-10-17 01:07:08	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:07:08	2014-10-17 01:07:18	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:07:18	2014-10-17 01:07:28	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:07:28	2014-10-17 01:07:38	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:07:38	2014-10-17 01:07:48	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:07:48	2014-10-17 01:07:58	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:07:58	2014-10-17 01:08:08	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:08:08	2014-10-17 01:08:18	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:08:18	2014-10-17 01:08:28	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:08:28	2014-10-17 01:08:38	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:08:38	2014-10-17 01:08:48	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:08:48	2014-10-17 01:08:58	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:08:58	2014-10-17 01:09:08	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:09:08	2014-10-17 01:09:18	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:09:18	2014-10-17 01:09:28	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:09:28	2014-10-17 01:09:38	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:09:38	2014-10-17 01:09:48	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:09:48	2014-10-17 01:09:58	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:09:58	2014-10-17 01:10:08	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:10:08	2014-10-17 01:10:18	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:10:18	2014-10-17 01:10:28	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:10:28	2014-10-17 01:10:38	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:10:38	2014-10-17 01:10:41	1	-	Game	-	-	00:38:02	00:44:25	-	-	-
+machine	kkchang	NICS: Los Angeles	block	2014-10-17 01:10:41	2014-10-17 01:10:51	2	-	-	-	-	00:44:25	00:44:37	pregame	NICS: Los Angeles	tv
+machine	kkchang	NICS: Los Angeles	block	2014-10-17 01:10:51	2014-10-17 01:10:53	2	-	-	-	-	00:44:25	00:44:37	pregame	NICS: Los Angeles	tv
+machine	kkchang	Game	block	2014-10-17 01:10:53	2014-10-17 01:11:03	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:11:03	2014-10-17 01:11:13	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:11:13	2014-10-17 01:11:23	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:11:23	2014-10-17 01:11:33	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:11:33	2014-10-17 01:11:43	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:11:43	2014-10-17 01:11:53	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:11:53	2014-10-17 01:12:03	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:12:03	2014-10-17 01:12:13	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:12:13	2014-10-17 01:12:23	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:12:23	2014-10-17 01:12:33	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:12:33	2014-10-17 01:12:43	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:12:43	2014-10-17 01:12:53	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:12:53	2014-10-17 01:13:03	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:13:03	2014-10-17 01:13:13	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:13:13	2014-10-17 01:13:23	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:13:23	2014-10-17 01:13:33	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:13:33	2014-10-17 01:13:43	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:13:43	2014-10-17 01:13:53	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:13:53	2014-10-17 01:14:03	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:14:03	2014-10-17 01:14:13	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:14:13	2014-10-17 01:14:23	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:14:23	2014-10-17 01:14:33	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:14:33	2014-10-17 01:14:43	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:14:43	2014-10-17 01:14:53	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:14:53	2014-10-17 01:15:03	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:15:03	2014-10-17 01:15:13	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:15:13	2014-10-17 01:15:23	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:15:23	2014-10-17 01:15:33	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:15:33	2014-10-17 01:15:38	1	-	Game	-	-	00:44:37	00:49:22	-	-	-
+machine	kkchang	Field goal	block	2014-10-17 01:15:38	2014-10-17 01:15:42	1	Jets	Field goal	9:7	2ND 07:57	00:49:22	00:49:26	-	-	-
+machine	kkchang	Mercedes Benz	block	2014-10-17 01:15:53	2014-10-17 01:16:03	2	-	-	-	-	00:49:37	00:50:06	full	Mercedes Benz	car
+machine	kkchang	Mercedes Benz	block	2014-10-17 01:16:03	2014-10-17 01:16:13	2	-	-	-	-	00:49:37	00:50:06	full	Mercedes Benz	car
+machine	kkchang	Mercedes Benz	block	2014-10-17 01:16:13	2014-10-17 01:16:22	2	-	-	-	-	00:49:37	00:50:06	full	Mercedes Benz	car
+machine	kkchang	iPhone	block	2014-10-17 01:16:23	2014-10-17 01:16:33	2	-	-	-	-	00:50:07	00:50:37	full	iPhone	tech
+machine	kkchang	iPhone	block	2014-10-17 01:16:33	2014-10-17 01:16:43	2	-	-	-	-	00:50:07	00:50:37	full	iPhone	tech
+machine	kkchang	iPhone	block	2014-10-17 01:16:43	2014-10-17 01:16:53	2	-	-	-	-	00:50:07	00:50:37	full	iPhone	tech
+machine	kkchang	JohnWick	block	2014-10-17 01:16:53	2014-10-17 01:17:03	2	-	-	-	-	00:50:37	00:50:52	full	JohnWick	movie
+machine	kkchang	JohnWick	block	2014-10-17 01:17:03	2014-10-17 01:17:08	2	-	-	-	-	00:50:37	00:50:52	full	JohnWick	movie
+machine	kkchang	Outback	block	2014-10-17 01:17:08	2014-10-17 01:17:18	2	-	-	-	-	00:50:52	00:51:07	full	Outback	food
+machine	kkchang	Outback	block	2014-10-17 01:17:18	2014-10-17 01:17:23	2	-	-	-	-	00:50:52	00:51:07	full	Outback	food
+machine	kkchang	Big Bang Theory	block	2014-10-17 01:17:24	2014-10-17 01:17:32	2	-	-	-	-	00:51:08	00:51:16	full	Big Bang Theory	tv
+machine	kkchang	Miller	block	2014-10-17 01:17:33	2014-10-17 01:17:43	2	-	-	-	-	00:51:17	00:51:27	full	Miller	tv
+machine	kkchang	HP	block	2014-10-17 01:18:25	2014-10-17 01:18:35	2	-	-	-	-	00:52:09	00:53:09	full	HP	tech
+machine	kkchang	HP	block	2014-10-17 01:18:35	2014-10-17 01:18:45	2	-	-	-	-	00:52:09	00:53:09	full	HP	tech
+machine	kkchang	HP	block	2014-10-17 01:18:45	2014-10-17 01:18:55	2	-	-	-	-	00:52:09	00:53:09	full	HP	tech
+machine	kkchang	HP	block	2014-10-17 01:18:55	2014-10-17 01:19:05	2	-	-	-	-	00:52:09	00:53:09	full	HP	tech
+machine	kkchang	HP	block	2014-10-17 01:19:05	2014-10-17 01:19:15	2	-	-	-	-	00:52:09	00:53:09	full	HP	tech
+machine	kkchang	HP	block	2014-10-17 01:19:15	2014-10-17 01:19:25	2	-	-	-	-	00:52:09	00:53:09	full	HP	tech
+machine	kkchang	Mercedes Benz	block	2014-10-17 01:19:25	2014-10-17 01:19:35	2	-	-	-	-	00:53:09	00:53:39	full	Mercedes Benz	car
+machine	kkchang	Mercedes Benz	block	2014-10-17 01:19:35	2014-10-17 01:19:45	2	-	-	-	-	00:53:09	00:53:39	full	Mercedes Benz	car
+machine	kkchang	Mercedes Benz	block	2014-10-17 01:19:45	2014-10-17 01:19:55	2	-	-	-	-	00:53:09	00:53:39	full	Mercedes Benz	car
+machine	kkchang	HP	block	2014-10-17 01:20:00	2014-10-17 01:20:05	2	-	-	-	-	00:53:44	00:53:49	pregame	HP	tech
+machine	kkchang	Mercedes Benz	block	2014-10-17 01:20:05	2014-10-17 01:20:10	2	-	-	-	-	00:53:49	00:53:54	pregame	Mercedes Benz	car
+machine	kkchang	Corona	block	2014-10-17 01:20:11	2014-10-17 01:20:15	2	-	-	-	-	00:53:55	00:53:59	pregame	Corona	beer
+machine	kkchang	Game	block	2014-10-17 01:20:15	2014-10-17 01:20:25	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:20:25	2014-10-17 01:20:35	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:20:35	2014-10-17 01:20:45	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:20:45	2014-10-17 01:20:55	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:20:55	2014-10-17 01:21:05	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:21:05	2014-10-17 01:21:15	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:21:15	2014-10-17 01:21:25	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:21:25	2014-10-17 01:21:35	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:21:35	2014-10-17 01:21:45	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:21:45	2014-10-17 01:21:55	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:21:55	2014-10-17 01:22:05	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:22:05	2014-10-17 01:22:15	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:22:15	2014-10-17 01:22:25	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:22:25	2014-10-17 01:22:35	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:22:35	2014-10-17 01:22:45	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:22:45	2014-10-17 01:22:55	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:22:55	2014-10-17 01:23:05	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:23:05	2014-10-17 01:23:15	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:23:15	2014-10-17 01:23:25	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:23:25	2014-10-17 01:23:35	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:23:35	2014-10-17 01:23:45	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:23:45	2014-10-17 01:23:55	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:23:55	2014-10-17 01:24:05	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:24:05	2014-10-17 01:24:15	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:24:15	2014-10-17 01:24:25	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:24:25	2014-10-17 01:24:35	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:24:35	2014-10-17 01:24:45	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:24:45	2014-10-17 01:24:55	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:24:55	2014-10-17 01:25:05	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:25:05	2014-10-17 01:25:15	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:25:15	2014-10-17 01:25:25	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:25:25	2014-10-17 01:25:35	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:25:35	2014-10-17 01:25:45	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:25:45	2014-10-17 01:25:55	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:25:55	2014-10-17 01:26:05	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:26:05	2014-10-17 01:26:07	1	-	Game	-	-	00:53:59	00:59:51	-	-	-
+machine	kkchang	Touch down	block	2014-10-17 01:26:07	2014-10-17 01:26:17	1	New Patriots	Touch down	9:13	2ND 04:22	00:59:51	01:00:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:26:17	2014-10-17 01:26:27	1	-	Game	-	-	01:00:01	01:00:37	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:26:27	2014-10-17 01:26:37	1	-	Game	-	-	01:00:01	01:00:37	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:26:37	2014-10-17 01:26:47	1	-	Game	-	-	01:00:01	01:00:37	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:26:47	2014-10-17 01:26:53	1	-	Game	-	-	01:00:01	01:00:37	-	-	-
+machine	kkchang	Extra point	block	2014-10-17 01:26:53	2014-10-17 01:26:55	1	New Patriots	Extra point	9:14	2ND 04:22	01:00:37	01:00:39	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:26:55	2014-10-17 01:27:05	1	-	Game	-	-	01:00:39	01:00:52	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:27:05	2014-10-17 01:27:08	1	-	Game	-	-	01:00:39	01:00:52	-	-	-
+machine	kkchang	Dominos Pizza	block	2014-10-17 01:27:08	2014-10-17 01:27:18	2	-	-	-	-	01:00:52	01:01:21	full	Dominos Pizza	food
+machine	kkchang	Dominos Pizza	block	2014-10-17 01:27:18	2014-10-17 01:27:28	2	-	-	-	-	01:00:52	01:01:21	full	Dominos Pizza	food
+machine	kkchang	Dominos Pizza	block	2014-10-17 01:27:28	2014-10-17 01:27:37	2	-	-	-	-	01:00:52	01:01:21	full	Dominos Pizza	food
+machine	kkchang	Corona	block	2014-10-17 01:27:38	2014-10-17 01:27:48	2	-	-	-	-	01:01:22	01:01:52	full	Corona	beer
+machine	kkchang	Corona	block	2014-10-17 01:27:48	2014-10-17 01:27:58	2	-	-	-	-	01:01:22	01:01:52	full	Corona	beer
+machine	kkchang	Corona	block	2014-10-17 01:27:58	2014-10-17 01:28:08	2	-	-	-	-	01:01:22	01:01:52	full	Corona	beer
+machine	kkchang	Exxon Mobil	block	2014-10-17 01:28:08	2014-10-17 01:28:18	2	-	-	-	-	01:01:52	01:02:22	full	Exxon Mobil	car-accessary
+machine	kkchang	Exxon Mobil	block	2014-10-17 01:28:18	2014-10-17 01:28:28	2	-	-	-	-	01:01:52	01:02:22	full	Exxon Mobil	car-accessary
+machine	kkchang	Exxon Mobil	block	2014-10-17 01:28:28	2014-10-17 01:28:38	2	-	-	-	-	01:01:52	01:02:22	full	Exxon Mobil	car-accessary
+machine	kkchang	The Amazing Race	block	2014-10-17 01:28:39	2014-10-17 01:28:49	2	-	-	-	-	01:02:23	01:02:42	full	The Amazing Race	tv
+machine	kkchang	The Amazing Race	block	2014-10-17 01:28:49	2014-10-17 01:28:58	2	-	-	-	-	01:02:23	01:02:42	full	The Amazing Race	tv
+machine	kkchang	Inside the War Room	block	2014-10-17 01:29:00	2014-10-17 01:29:03	2	-	-	-	-	01:02:44	01:02:47	pregame	Inside the War Room	nfl
+machine	kkchang	Finding Giants	block	2014-10-17 01:29:05	2014-10-17 01:29:09	2	-	-	-	-	01:02:49	01:02:53	pregame	Finding Giants	nfl
+machine	kkchang	Game	block	2014-10-17 01:29:09	2014-10-17 01:29:19	1	-	Game	-	-	01:02:53	01:03:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:29:19	2014-10-17 01:29:29	1	-	Game	-	-	01:02:53	01:03:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:29:29	2014-10-17 01:29:39	1	-	Game	-	-	01:02:53	01:03:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:29:39	2014-10-17 01:29:49	1	-	Game	-	-	01:02:53	01:03:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:29:49	2014-10-17 01:29:58	1	-	Game	-	-	01:02:53	01:03:42	-	-	-
+machine	kkchang	Sonos	block	2014-10-17 01:29:58	2014-10-17 01:30:08	2	-	-	-	-	01:03:42	01:03:57	full	Sonos	tech
+machine	kkchang	Sonos	block	2014-10-17 01:30:08	2014-10-17 01:30:13	2	-	-	-	-	01:03:42	01:03:57	full	Sonos	tech
+machine	kkchang	Lowes	block	2014-10-17 01:30:14	2014-10-17 01:30:24	2	-	-	-	-	01:03:58	01:04:27	full	Lowes	store
+machine	kkchang	Lowes	block	2014-10-17 01:30:24	2014-10-17 01:30:34	2	-	-	-	-	01:03:58	01:04:27	full	Lowes	store
+machine	kkchang	Lowes	block	2014-10-17 01:30:34	2014-10-17 01:30:43	2	-	-	-	-	01:03:58	01:04:27	full	Lowes	store
+machine	kkchang	Interstellar	block	2014-10-17 01:30:44	2014-10-17 01:30:54	2	-	-	-	-	01:04:28	01:04:57	full	Interstellar	movie
+machine	kkchang	Interstellar	block	2014-10-17 01:30:54	2014-10-17 01:31:04	2	-	-	-	-	01:04:28	01:04:57	full	Interstellar	movie
+machine	kkchang	Interstellar	block	2014-10-17 01:31:04	2014-10-17 01:31:13	2	-	-	-	-	01:04:28	01:04:57	full	Interstellar	movie
+machine	kkchang	Sonos	block	2014-10-17 01:31:14	2014-10-17 01:31:24	2	-	-	-	-	01:04:58	01:05:13	full	Sonos	sound
+machine	kkchang	Sonos	block	2014-10-17 01:31:24	2014-10-17 01:31:29	2	-	-	-	-	01:04:58	01:05:13	full	Sonos	sound
+machine	kkchang	60 minutes	block	2014-10-17 01:31:29	2014-10-17 01:31:39	2	-	-	-	-	01:05:13	01:05:23	full	60 minutes	tv
+machine	kkchang	Subway	block	2014-10-17 01:31:42	2014-10-17 01:31:47	2	-	-	-	-	01:05:26	01:05:31	pregame	Subway	food
+machine	kkchang	AARP	block	2014-10-17 01:31:47	2014-10-17 01:31:52	2	-	-	-	-	01:05:31	01:05:36	pregame	AARP	social
+machine	kkchang	Game	block	2014-10-17 01:31:52	2014-10-17 01:32:02	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:32:02	2014-10-17 01:32:12	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:32:12	2014-10-17 01:32:22	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:32:22	2014-10-17 01:32:32	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:32:32	2014-10-17 01:32:42	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:32:42	2014-10-17 01:32:52	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:32:52	2014-10-17 01:33:02	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:33:02	2014-10-17 01:33:12	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:33:12	2014-10-17 01:33:22	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:33:22	2014-10-17 01:33:32	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:33:32	2014-10-17 01:33:42	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:33:42	2014-10-17 01:33:52	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:33:52	2014-10-17 01:34:02	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:34:02	2014-10-17 01:34:12	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:34:12	2014-10-17 01:34:22	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:34:22	2014-10-17 01:34:32	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:34:32	2014-10-17 01:34:42	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:34:42	2014-10-17 01:34:52	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:34:52	2014-10-17 01:35:02	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:35:02	2014-10-17 01:35:12	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:35:12	2014-10-17 01:35:19	1	-	Game	-	-	01:05:36	01:09:03	-	-	-
+machine	kkchang	Subway	block	2014-10-17 01:35:19	2014-10-17 01:35:29	2	-	-	-	-	01:09:03	01:09:32	full	Subway	food
+machine	kkchang	Subway	block	2014-10-17 01:35:29	2014-10-17 01:35:39	2	-	-	-	-	01:09:03	01:09:32	full	Subway	food
+machine	kkchang	Subway	block	2014-10-17 01:35:39	2014-10-17 01:35:48	2	-	-	-	-	01:09:03	01:09:32	full	Subway	food
+machine	kkchang	NFL Mobile	block	2014-10-17 01:35:48	2014-10-17 01:35:58	2	-	-	-	-	01:09:32	01:10:02	full	NFL Mobile	nfl
+machine	kkchang	NFL Mobile	block	2014-10-17 01:35:58	2014-10-17 01:36:08	2	-	-	-	-	01:09:32	01:10:02	full	NFL Mobile	nfl
+machine	kkchang	NFL Mobile	block	2014-10-17 01:36:08	2014-10-17 01:36:18	2	-	-	-	-	01:09:32	01:10:02	full	NFL Mobile	nfl
+machine	kkchang	AARP	block	2014-10-17 01:36:19	2014-10-17 01:36:29	2	-	-	-	-	01:10:03	01:10:32	full	AARP	social
+machine	kkchang	AARP	block	2014-10-17 01:36:29	2014-10-17 01:36:39	2	-	-	-	-	01:10:03	01:10:32	full	AARP	social
+machine	kkchang	AARP	block	2014-10-17 01:36:39	2014-10-17 01:36:48	2	-	-	-	-	01:10:03	01:10:32	full	AARP	social
+machine	kkchang	Bridgestone	block	2014-10-17 01:36:48	2014-10-17 01:36:58	2	-	-	-	-	01:10:32	01:11:02	full	Bridgestone	car-accessary
+machine	kkchang	Bridgestone	block	2014-10-17 01:36:58	2014-10-17 01:37:08	2	-	-	-	-	01:10:32	01:11:02	full	Bridgestone	car-accessary
+machine	kkchang	Bridgestone	block	2014-10-17 01:37:08	2014-10-17 01:37:18	2	-	-	-	-	01:10:32	01:11:02	full	Bridgestone	car-accessary
+machine	kkchang	NCIS: Los Angeles	block	2014-10-17 01:37:19	2014-10-17 01:37:29	2	-	-	-	-	01:11:03	01:11:23	full	NCIS: Los Angeles	tv
+machine	kkchang	NCIS: Los Angeles	block	2014-10-17 01:37:29	2014-10-17 01:37:39	2	-	-	-	-	01:11:03	01:11:23	full	NCIS: Los Angeles	tv
+machine	kkchang	Lexus Haltime Report	block	2014-10-17 01:37:41	2014-10-17 01:37:47	2	-	-	-	-	01:11:25	01:11:31	pregame	Lexus Haltime Report	car
+machine	kkchang	Game	block	2014-10-17 01:37:47	2014-10-17 01:37:57	1	-	Game	-	-	01:11:31	01:12:56	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:37:57	2014-10-17 01:38:07	1	-	Game	-	-	01:11:31	01:12:56	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:38:07	2014-10-17 01:38:17	1	-	Game	-	-	01:11:31	01:12:56	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:38:17	2014-10-17 01:38:27	1	-	Game	-	-	01:11:31	01:12:56	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:38:27	2014-10-17 01:38:37	1	-	Game	-	-	01:11:31	01:12:56	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:38:37	2014-10-17 01:38:47	1	-	Game	-	-	01:11:31	01:12:56	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:38:47	2014-10-17 01:38:57	1	-	Game	-	-	01:11:31	01:12:56	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:38:57	2014-10-17 01:39:07	1	-	Game	-	-	01:11:31	01:12:56	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:39:07	2014-10-17 01:39:12	1	-	Game	-	-	01:11:31	01:12:56	-	-	-
+machine	kkchang	Chick fil A	block	2014-10-17 01:39:12	2014-10-17 01:39:22	2	-	-	-	-	01:12:56	01:13:26	full	Chick fil A	food
+machine	kkchang	Chick fil A	block	2014-10-17 01:39:22	2014-10-17 01:39:32	2	-	-	-	-	01:12:56	01:13:26	full	Chick fil A	food
+machine	kkchang	Chick fil A	block	2014-10-17 01:39:32	2014-10-17 01:39:42	2	-	-	-	-	01:12:56	01:13:26	full	Chick fil A	food
+machine	kkchang	Scorpion	block	2014-10-17 01:39:44	2014-10-17 01:39:52	2	-	-	-	-	01:13:28	01:13:36	full	Scorpion	tv
+machine	kkchang	Field Goal	block	2014-10-17 01:40:52	2014-10-17 01:40:58	1	Jets	Field Goal	12:14	2ND 01:04	01:14:36	01:14:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:40:58	2014-10-17 01:41:07	1	-	Game	-	-	01:14:42	01:14:51	-	-	-
+machine	kkchang	Capital One	block	2014-10-17 01:41:07	2014-10-17 01:41:17	2	-	-	-	-	01:14:51	01:15:20	full	Capital One	credit
+machine	kkchang	Capital One	block	2014-10-17 01:41:17	2014-10-17 01:41:27	2	-	-	-	-	01:14:51	01:15:20	full	Capital One	credit
+machine	kkchang	Capital One	block	2014-10-17 01:41:27	2014-10-17 01:41:36	2	-	-	-	-	01:14:51	01:15:20	full	Capital One	credit
+machine	kkchang	Game	block	2014-10-17 01:41:36	2014-10-17 01:41:46	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:41:46	2014-10-17 01:41:56	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:41:56	2014-10-17 01:42:06	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:42:06	2014-10-17 01:42:16	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:42:16	2014-10-17 01:42:26	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:42:26	2014-10-17 01:42:36	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:42:36	2014-10-17 01:42:46	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:42:46	2014-10-17 01:42:56	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:42:56	2014-10-17 01:43:06	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:43:06	2014-10-17 01:43:16	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:43:16	2014-10-17 01:43:26	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:43:26	2014-10-17 01:43:36	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:43:36	2014-10-17 01:43:46	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:43:46	2014-10-17 01:43:56	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:43:56	2014-10-17 01:43:57	1	-	Game	-	-	01:15:20	01:17:41	-	-	-
+machine	kkchang	Lexus Haltime Report	block	2014-10-17 01:43:57	2014-10-17 01:44:07	2	-	-	-	-	01:17:41	01:17:52	pregame	Lexus Haltime Report	car
+machine	kkchang	Lexus Haltime Report	block	2014-10-17 01:44:07	2014-10-17 01:44:08	2	-	-	-	-	01:17:41	01:17:52	pregame	Lexus Haltime Report	car
+machine	kkchang	Game	block	2014-10-17 01:44:08	2014-10-17 01:44:18	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:44:18	2014-10-17 01:44:28	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:44:28	2014-10-17 01:44:38	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:44:38	2014-10-17 01:44:48	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:44:48	2014-10-17 01:44:58	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:44:58	2014-10-17 01:45:08	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:45:08	2014-10-17 01:45:18	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:45:18	2014-10-17 01:45:28	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:45:28	2014-10-17 01:45:38	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:45:38	2014-10-17 01:45:48	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:45:48	2014-10-17 01:45:58	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:45:58	2014-10-17 01:46:08	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:46:08	2014-10-17 01:46:18	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:46:18	2014-10-17 01:46:28	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:46:28	2014-10-17 01:46:38	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:46:38	2014-10-17 01:46:48	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:46:48	2014-10-17 01:46:58	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:46:58	2014-10-17 01:47:08	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:47:08	2014-10-17 01:47:18	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:47:18	2014-10-17 01:47:28	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:47:28	2014-10-17 01:47:38	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:47:38	2014-10-17 01:47:48	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:47:48	2014-10-17 01:47:58	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:47:58	2014-10-17 01:48:08	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:48:08	2014-10-17 01:48:18	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:48:18	2014-10-17 01:48:28	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:48:28	2014-10-17 01:48:38	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:48:38	2014-10-17 01:48:48	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:48:48	2014-10-17 01:48:58	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:48:58	2014-10-17 01:49:08	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:49:08	2014-10-17 01:49:18	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:49:18	2014-10-17 01:49:28	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:49:28	2014-10-17 01:49:38	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:49:38	2014-10-17 01:49:48	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:49:48	2014-10-17 01:49:58	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:49:58	2014-10-17 01:50:08	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:50:08	2014-10-17 01:50:16	1	-	Game	-	-	01:17:52	01:24:00	-	-	-
+machine	kkchang	Field Goal	block	2014-10-17 01:50:16	2014-10-17 01:50:21	1	Patriots	Field Goal	12:17	2ND 00:05	01:24:00	01:24:05	-	-	-
+machine	kkchang	End of quarter	block	2014-10-17 01:50:21	2014-10-17 01:50:22	1	Neutral	End of quarter	12:17	2ND 00:00	01:24:05	01:24:06	-	-	-
+machine	kkchang	NFL Now	block	2014-10-17 01:51:02	2014-10-17 01:51:12	2	-	-	-	-	01:24:46	01:25:15	full	NFL Now	nfl
+machine	kkchang	NFL Now	block	2014-10-17 01:51:12	2014-10-17 01:51:22	2	-	-	-	-	01:24:46	01:25:15	full	NFL Now	nfl
+machine	kkchang	NFL Now	block	2014-10-17 01:51:22	2014-10-17 01:51:31	2	-	-	-	-	01:24:46	01:25:15	full	NFL Now	nfl
+machine	kkchang	Madam Secretary The Good Wife	block	2014-10-17 01:51:33	2014-10-17 01:51:43	2	-	-	-	-	01:25:17	01:25:45	full	Madam Secretary The Good Wife	tv
+machine	kkchang	Madam Secretary The Good Wife	block	2014-10-17 01:51:43	2014-10-17 01:51:53	2	-	-	-	-	01:25:17	01:25:45	full	Madam Secretary The Good Wife	tv
+machine	kkchang	Madam Secretary The Good Wife	block	2014-10-17 01:51:53	2014-10-17 01:52:01	2	-	-	-	-	01:25:17	01:25:45	full	Madam Secretary The Good Wife	tv
+machine	kkchang	Person of Interest	block	2014-10-17 01:52:02	2014-10-17 01:52:12	2	-	-	-	-	01:25:46	01:26:06	full	Person of Interest	tv
+machine	kkchang	Person of Interest	block	2014-10-17 01:52:12	2014-10-17 01:52:22	2	-	-	-	-	01:25:46	01:26:06	full	Person of Interest	tv
+machine	kkchang	Mom	block	2014-10-17 01:52:22	2014-10-17 01:52:32	2	-	-	-	-	01:26:06	01:26:16	full	Mom	tv
+machine	kkchang	Hawaii Five-O	block	2014-10-17 01:52:33	2014-10-17 01:52:37	2	-	-	-	-	01:26:17	01:26:21	full	Hawaii Five-O	tv
+machine	kkchang	Allegheny Health Network Cancer Institute	block	2014-10-17 01:52:38	2014-10-17 01:52:48	2	-	-	-	-	01:26:22	01:26:52	full	Allegheny Health Network Cancer Institute	hospital
+machine	kkchang	Allegheny Health Network Cancer Institute	block	2014-10-17 01:52:48	2014-10-17 01:52:58	2	-	-	-	-	01:26:22	01:26:52	full	Allegheny Health Network Cancer Institute	hospital
+machine	kkchang	Allegheny Health Network Cancer Institute	block	2014-10-17 01:52:58	2014-10-17 01:53:08	2	-	-	-	-	01:26:22	01:26:52	full	Allegheny Health Network Cancer Institute	hospital
+machine	kkchang	Highmark	block	2014-10-17 01:53:08	2014-10-17 01:53:18	2	-	-	-	-	01:26:52	01:27:22	full	Highmark	insurance
+machine	kkchang	Highmark	block	2014-10-17 01:53:18	2014-10-17 01:53:28	2	-	-	-	-	01:26:52	01:27:22	full	Highmark	insurance
+machine	kkchang	Highmark	block	2014-10-17 01:53:28	2014-10-17 01:53:38	2	-	-	-	-	01:26:52	01:27:22	full	Highmark	insurance
+machine	kkchang	KDKA	block	2014-10-17 01:53:38	2014-10-17 01:53:42	2	-	-	-	-	01:27:22	01:27:26	full	KDKA	tv
+machine	kkchang	Lexus Half Time Report	block	2014-10-17 01:53:45	2014-10-17 01:53:51	2	-	-	-	-	01:27:29	01:27:35	sponsor	Lexus Half Time Report	car
+machine	kkchang	Game	block	2014-10-17 01:53:51	2014-10-17 01:54:01	1	-	Game	-	-	01:27:35	01:28:54	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:54:01	2014-10-17 01:54:11	1	-	Game	-	-	01:27:35	01:28:54	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:54:11	2014-10-17 01:54:21	1	-	Game	-	-	01:27:35	01:28:54	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:54:21	2014-10-17 01:54:31	1	-	Game	-	-	01:27:35	01:28:54	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:54:31	2014-10-17 01:54:41	1	-	Game	-	-	01:27:35	01:28:54	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:54:41	2014-10-17 01:54:51	1	-	Game	-	-	01:27:35	01:28:54	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:54:51	2014-10-17 01:55:01	1	-	Game	-	-	01:27:35	01:28:54	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:55:01	2014-10-17 01:55:10	1	-	Game	-	-	01:27:35	01:28:54	-	-	-
+machine	kkchang	NCIS	block	2014-10-17 01:55:10	2014-10-17 01:55:20	2	-	-	-	-	01:28:54	01:29:07	full	NCIS	tv
+machine	kkchang	NCIS	block	2014-10-17 01:55:20	2014-10-17 01:55:30	2	-	-	-	-	01:28:54	01:29:07	full	NCIS	tv
+machine	kkchang	NCIS	block	2014-10-17 01:55:30	2014-10-17 01:55:39	2	-	-	-	-	01:28:54	01:29:07	full	NCIS	tv
+machine	kkchang	2 Broke Girls	block	2014-10-17 01:55:40	2014-10-17 01:55:50	2	-	-	-	-	01:29:24	01:29:34	full	2 Broke Girls	tv
+machine	kkchang	Elementary	block	2014-10-17 01:55:51	2014-10-17 01:56:01	2	-	-	-	-	01:29:35	01:29:54	full	Elementary	tv
+machine	kkchang	Elementary	block	2014-10-17 01:56:01	2014-10-17 01:56:10	2	-	-	-	-	01:29:35	01:29:54	full	Elementary	tv
+machine	kkchang	A Football Life	block	2014-10-17 01:56:12	2014-10-17 01:56:21	2	-	-	-	-	01:29:56	01:30:05	full	A Football Life	nfl
+machine	kkchang	Game	block	2014-10-17 01:56:21	2014-10-17 01:56:31	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:56:31	2014-10-17 01:56:41	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:56:41	2014-10-17 01:56:51	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:56:51	2014-10-17 01:57:01	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:57:01	2014-10-17 01:57:11	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:57:11	2014-10-17 01:57:21	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:57:21	2014-10-17 01:57:31	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:57:31	2014-10-17 01:57:41	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:57:41	2014-10-17 01:57:51	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:57:51	2014-10-17 01:58:01	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:58:01	2014-10-17 01:58:11	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:58:11	2014-10-17 01:58:21	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:58:21	2014-10-17 01:58:31	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:58:31	2014-10-17 01:58:41	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:58:41	2014-10-17 01:58:51	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:58:51	2014-10-17 01:59:01	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:59:01	2014-10-17 01:59:11	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:59:11	2014-10-17 01:59:21	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:59:21	2014-10-17 01:59:31	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:59:31	2014-10-17 01:59:41	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:59:41	2014-10-17 01:59:51	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 01:59:51	2014-10-17 02:00:01	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:00:01	2014-10-17 02:00:11	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:00:11	2014-10-17 02:00:18	1	-	Game	-	-	01:30:05	01:34:02	-	-	-
+machine	kkchang	Blue bloods	block	2014-10-17 02:00:18	2014-10-17 02:00:23	2	-	-	-	-	01:34:02	01:34:07	full	Blue bloods	tv
+machine	kkchang	KDKA News	block	2014-10-17 02:00:24	2014-10-17 02:00:34	2	-	-	-	-	01:34:08	01:34:23	full	KDKA News	news
+machine	kkchang	KDKA News	block	2014-10-17 02:00:34	2014-10-17 02:00:39	2	-	-	-	-	01:34:08	01:34:23	full	KDKA News	news
+machine	kkchang	PNC Steelers Latenight	block	2014-10-17 02:01:40	2014-10-17 02:01:50	2	-	-	-	-	01:35:24	01:35:38	full	PNC Steelers Latenight	bank
+machine	kkchang	PNC Steelers Latenight	block	2014-10-17 02:01:50	2014-10-17 02:01:54	2	-	-	-	-	01:35:24	01:35:38	full	PNC Steelers Latenight	bank
+machine	kkchang	First Niagra	block	2014-10-17 02:01:55	2014-10-17 02:02:05	2	-	-	-	-	01:35:39	01:36:08	full	First Niagra	bank
+machine	kkchang	First Niagra	block	2014-10-17 02:02:05	2014-10-17 02:02:15	2	-	-	-	-	01:35:39	01:36:08	full	First Niagra	bank
+machine	kkchang	First Niagra	block	2014-10-17 02:02:15	2014-10-17 02:02:24	2	-	-	-	-	01:35:39	01:36:08	full	First Niagra	bank
+machine	kkchang	The Amzing Race	block	2014-10-17 02:02:25	2014-10-17 02:02:34	2	-	-	-	-	01:36:09	01:36:18	full	The Amzing Race	tv
+machine	kkchang	Lexus	block	2014-10-17 02:02:35	2014-10-17 02:02:45	2	-	-	-	-	01:36:19	01:36:48	full	Lexus	car
+machine	kkchang	Lexus	block	2014-10-17 02:02:45	2014-10-17 02:02:55	2	-	-	-	-	01:36:19	01:36:48	full	Lexus	car
+machine	kkchang	Lexus	block	2014-10-17 02:02:55	2014-10-17 02:03:04	2	-	-	-	-	01:36:19	01:36:48	full	Lexus	car
+machine	kkchang	NFL Thursday Night Football	block	2014-10-17 02:03:07	2014-10-17 02:03:17	2	-	-	-	-	01:36:51	01:37:05	full	NFL Thursday Night Football	nfl
+machine	kkchang	NFL Thursday Night Football	block	2014-10-17 02:03:17	2014-10-17 02:03:21	2	-	-	-	-	01:36:51	01:37:05	full	NFL Thursday Night Football	nfl
+machine	kkchang	Statefarm Double Check	block	2014-10-17 02:03:31	2014-10-17 02:03:41	2	-	-	-	-	01:37:15	01:37:30	sponsor	Statefarm Double Check	insurance
+machine	kkchang	Statefarm Double Check	block	2014-10-17 02:03:41	2014-10-17 02:03:46	2	-	-	-	-	01:37:15	01:37:30	sponsor	Statefarm Double Check	insurance
+machine	kkchang	Game	block	2014-10-17 02:03:46	2014-10-17 02:03:56	1	-	Game	-	-	01:37:30	01:38:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:03:56	2014-10-17 02:04:06	1	-	Game	-	-	01:37:30	01:38:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:04:06	2014-10-17 02:04:16	1	-	Game	-	-	01:37:30	01:38:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:04:16	2014-10-17 02:04:26	1	-	Game	-	-	01:37:30	01:38:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:04:26	2014-10-17 02:04:36	1	-	Game	-	-	01:37:30	01:38:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:04:36	2014-10-17 02:04:46	1	-	Game	-	-	01:37:30	01:38:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:04:46	2014-10-17 02:04:56	1	-	Game	-	-	01:37:30	01:38:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:04:56	2014-10-17 02:05:02	1	-	Game	-	-	01:37:30	01:38:46	-	-	-
+machine	kkchang	Start of quarter	block	2014-10-17 02:05:02	2014-10-17 02:05:03	1	Neutral	Start of quarter	12:17	3RD 15:00	01:38:46	01:38:47	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:05:03	2014-10-17 02:05:13	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:05:13	2014-10-17 02:05:23	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:05:23	2014-10-17 02:05:33	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:05:33	2014-10-17 02:05:43	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:05:43	2014-10-17 02:05:53	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:05:53	2014-10-17 02:06:03	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:06:03	2014-10-17 02:06:13	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:06:13	2014-10-17 02:06:23	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:06:23	2014-10-17 02:06:33	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:06:33	2014-10-17 02:06:43	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:06:43	2014-10-17 02:06:53	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:06:53	2014-10-17 02:07:03	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:07:03	2014-10-17 02:07:13	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:07:13	2014-10-17 02:07:23	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:07:23	2014-10-17 02:07:33	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:07:33	2014-10-17 02:07:43	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:07:43	2014-10-17 02:07:53	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:07:53	2014-10-17 02:08:03	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:08:03	2014-10-17 02:08:13	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:08:13	2014-10-17 02:08:23	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:08:23	2014-10-17 02:08:33	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:08:33	2014-10-17 02:08:43	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:08:43	2014-10-17 02:08:53	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:08:53	2014-10-17 02:09:03	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:09:03	2014-10-17 02:09:13	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:09:13	2014-10-17 02:09:23	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:09:23	2014-10-17 02:09:33	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:09:33	2014-10-17 02:09:43	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:09:43	2014-10-17 02:09:53	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:09:53	2014-10-17 02:10:03	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:10:03	2014-10-17 02:10:13	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:10:13	2014-10-17 02:10:23	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:10:23	2014-10-17 02:10:33	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:10:33	2014-10-17 02:10:43	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:10:43	2014-10-17 02:10:53	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:10:53	2014-10-17 02:11:03	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:11:03	2014-10-17 02:11:13	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:11:13	2014-10-17 02:11:20	1	-	Game	-	-	01:38:47	01:45:04	-	-	-
+machine	kkchang	Verizon	block	2014-10-17 02:11:20	2014-10-17 02:11:30	2	-	-	-	-	01:45:04	01:45:33	full	Verizon	phone
+machine	kkchang	Verizon	block	2014-10-17 02:11:30	2014-10-17 02:11:40	2	-	-	-	-	01:45:04	01:45:33	full	Verizon	phone
+machine	kkchang	Verizon	block	2014-10-17 02:11:40	2014-10-17 02:11:49	2	-	-	-	-	01:45:04	01:45:33	full	Verizon	phone
+machine	kkchang	NFL Together We Make Football	block	2014-10-17 02:11:51	2014-10-17 02:12:01	2	-	-	-	-	01:45:35	01:45:46	pregame	NFL Together We Make Football	nfl
+machine	kkchang	NFL Together We Make Football	block	2014-10-17 02:12:01	2014-10-17 02:12:02	2	-	-	-	-	01:45:35	01:45:46	pregame	NFL Together We Make Football	nfl
+machine	kkchang	Game	block	2014-10-17 02:12:02	2014-10-17 02:12:12	1	-	Game	-	-	01:45:46	01:47:24	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:12:12	2014-10-17 02:12:22	1	-	Game	-	-	01:45:46	01:47:24	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:12:22	2014-10-17 02:12:32	1	-	Game	-	-	01:45:46	01:47:24	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:12:32	2014-10-17 02:12:42	1	-	Game	-	-	01:45:46	01:47:24	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:12:42	2014-10-17 02:12:52	1	-	Game	-	-	01:45:46	01:47:24	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:12:52	2014-10-17 02:13:02	1	-	Game	-	-	01:45:46	01:47:24	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:13:02	2014-10-17 02:13:12	1	-	Game	-	-	01:45:46	01:47:24	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:13:12	2014-10-17 02:13:22	1	-	Game	-	-	01:45:46	01:47:24	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:13:22	2014-10-17 02:13:32	1	-	Game	-	-	01:45:46	01:47:24	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:13:32	2014-10-17 02:13:40	1	-	Game	-	-	01:45:46	01:47:24	-	-	-
+machine	kkchang	Touch down	block	2014-10-17 02:13:40	2014-10-17 02:13:49	1	Jets	Touch down	18:17	3RD 08:58	01:47:24	01:47:33	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:13:49	2014-10-17 02:13:59	1	-	Game	-	-	01:47:33	01:48:13	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:13:59	2014-10-17 02:14:09	1	-	Game	-	-	01:47:33	01:48:13	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:14:09	2014-10-17 02:14:19	1	-	Game	-	-	01:47:33	01:48:13	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:14:19	2014-10-17 02:14:29	1	-	Game	-	-	01:47:33	01:48:13	-	-	-
+machine	kkchang	Extra point	block	2014-10-17 02:14:29	2014-10-17 02:14:32	1	Jets	Extra point	19:17	3RD 08:58	01:48:13	01:48:16	-	-	-
+machine	kkchang	Lexus	block	2014-10-17 02:14:47	2014-10-17 02:14:57	2	-	-	-	-	01:48:31	01:49:00	full	Lexus	car
+machine	kkchang	Lexus	block	2014-10-17 02:14:57	2014-10-17 02:15:07	2	-	-	-	-	01:48:31	01:49:00	full	Lexus	car
+machine	kkchang	Lexus	block	2014-10-17 02:15:07	2014-10-17 02:15:16	2	-	-	-	-	01:48:31	01:49:00	full	Lexus	car
+machine	kkchang	IAMS	block	2014-10-17 02:15:17	2014-10-17 02:15:27	2	-	-	-	-	01:49:01	01:49:15	full	IAMS	pet
+machine	kkchang	IAMS	block	2014-10-17 02:15:27	2014-10-17 02:15:31	2	-	-	-	-	01:49:01	01:49:15	full	IAMS	pet
+machine	kkchang	AT&T	block	2014-10-17 02:15:32	2014-10-17 02:15:42	2	-	-	-	-	01:49:16	01:49:46	full	AT&T	phone
+machine	kkchang	AT&T	block	2014-10-17 02:15:42	2014-10-17 02:15:52	2	-	-	-	-	01:49:16	01:49:46	full	AT&T	phone
+machine	kkchang	AT&T	block	2014-10-17 02:15:52	2014-10-17 02:16:02	2	-	-	-	-	01:49:16	01:49:46	full	AT&T	phone
+machine	kkchang	KFC	block	2014-10-17 02:16:02	2014-10-17 02:16:12	2	-	-	-	-	01:49:46	01:50:01	full	KFC	food
+machine	kkchang	KFC	block	2014-10-17 02:16:12	2014-10-17 02:16:17	2	-	-	-	-	01:49:46	01:50:01	full	KFC	food
+machine	kkchang	Southwest	block	2014-10-17 02:16:17	2014-10-17 02:16:27	2	-	-	-	-	01:50:01	01:50:16	full	Southwest	airline
+machine	kkchang	Southwest	block	2014-10-17 02:16:27	2014-10-17 02:16:37	2	-	-	-	-	01:50:01	01:50:16	full	Southwest	airline
+machine	kkchang	Southwest	block	2014-10-17 02:16:37	2014-10-17 02:16:47	2	-	-	-	-	01:50:01	01:50:16	full	Southwest	airline
+machine	kkchang	SEC CBS	block	2014-10-17 02:16:47	2014-10-17 02:16:57	2	-	-	-	-	01:50:31	01:50:42	full	SEC CBS	tv
+machine	kkchang	SEC CBS	block	2014-10-17 02:16:57	2014-10-17 02:16:58	2	-	-	-	-	01:50:31	01:50:42	full	SEC CBS	tv
+machine	kkchang	NFL	block	2014-10-17 02:16:58	2014-10-17 02:17:07	2	-	-	-	-	01:50:42	01:50:51	full	NFL	nfl
+machine	kkchang	Game	block	2014-10-17 02:17:07	2014-10-17 02:17:17	1	-	Game	-	-	01:50:51	01:51:34	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:17:17	2014-10-17 02:17:27	1	-	Game	-	-	01:50:51	01:51:34	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:17:27	2014-10-17 02:17:37	1	-	Game	-	-	01:50:51	01:51:34	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:17:37	2014-10-17 02:17:47	1	-	Game	-	-	01:50:51	01:51:34	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:17:47	2014-10-17 02:17:50	1	-	Game	-	-	01:50:51	01:51:34	-	-	-
+machine	kkchang	Fury	block	2014-10-17 02:17:50	2014-10-17 02:18:00	2	-	-	-	-	01:51:34	01:51:49	full	Fury	movie
+machine	kkchang	Fury	block	2014-10-17 02:18:00	2014-10-17 02:18:05	2	-	-	-	-	01:51:34	01:51:49	full	Fury	movie
+machine	kkchang	T-Mobile	block	2014-10-17 02:18:05	2014-10-17 02:18:15	2	-	-	-	-	01:51:49	01:52:04	full	T-Mobile	phone
+machine	kkchang	T-Mobile	block	2014-10-17 02:18:15	2014-10-17 02:18:20	2	-	-	-	-	01:51:49	01:52:04	full	T-Mobile	phone
+machine	kkchang	Bose	block	2014-10-17 02:18:21	2014-10-17 02:18:31	2	-	-	-	-	01:52:05	01:52:34	full	Bose	tech
+machine	kkchang	Bose	block	2014-10-17 02:18:31	2014-10-17 02:18:41	2	-	-	-	-	01:52:05	01:52:34	full	Bose	tech
+machine	kkchang	Bose	block	2014-10-17 02:18:41	2014-10-17 02:18:50	2	-	-	-	-	01:52:05	01:52:34	full	Bose	tech
+machine	kkchang	Lexus	block	2014-10-17 02:18:51	2014-10-17 02:19:01	2	-	-	-	-	01:52:35	01:53:04	full	Lexus	car
+machine	kkchang	Lexus	block	2014-10-17 02:19:01	2014-10-17 02:19:11	2	-	-	-	-	01:52:35	01:53:04	full	Lexus	car
+machine	kkchang	Lexus	block	2014-10-17 02:19:11	2014-10-17 02:19:20	2	-	-	-	-	01:52:35	01:53:04	full	Lexus	car
+machine	kkchang	Fury	block	2014-10-17 02:19:26	2014-10-17 02:19:31	2	-	-	-	-	01:53:10	01:53:15	pregame	Fury	movie
+machine	kkchang	Bose	block	2014-10-17 02:19:31	2014-10-17 02:19:36	2	-	-	-	-	01:53:15	01:53:20	pregame	Bose	tech
+machine	kkchang	Lexus	block	2014-10-17 02:19:36	2014-10-17 02:19:41	2	-	-	-	-	01:53:20	01:53:25	pregame	Lexus	car
+machine	kkchang	Game	block	2014-10-17 02:19:41	2014-10-17 02:19:51	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:19:51	2014-10-17 02:20:01	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:20:01	2014-10-17 02:20:11	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:20:11	2014-10-17 02:20:21	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:20:21	2014-10-17 02:20:31	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:20:31	2014-10-17 02:20:41	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:20:41	2014-10-17 02:20:51	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:20:51	2014-10-17 02:21:01	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:21:01	2014-10-17 02:21:11	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:21:11	2014-10-17 02:21:21	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:21:21	2014-10-17 02:21:31	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:21:31	2014-10-17 02:21:41	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:21:41	2014-10-17 02:21:51	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:21:51	2014-10-17 02:22:01	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:22:01	2014-10-17 02:22:11	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:22:11	2014-10-17 02:22:21	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:22:21	2014-10-17 02:22:31	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:22:31	2014-10-17 02:22:41	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:22:41	2014-10-17 02:22:51	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:22:51	2014-10-17 02:23:01	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:23:01	2014-10-17 02:23:11	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:23:11	2014-10-17 02:23:21	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:23:21	2014-10-17 02:23:31	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:23:31	2014-10-17 02:23:41	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:23:41	2014-10-17 02:23:51	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:23:51	2014-10-17 02:24:01	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:24:01	2014-10-17 02:24:11	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:24:11	2014-10-17 02:24:21	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:24:21	2014-10-17 02:24:31	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:24:31	2014-10-17 02:24:41	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:24:41	2014-10-17 02:24:51	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:24:51	2014-10-17 02:25:01	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:25:01	2014-10-17 02:25:11	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:25:11	2014-10-17 02:25:21	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:25:21	2014-10-17 02:25:24	1	-	Game	-	-	01:53:25	01:59:08	-	-	-
+machine	kkchang	CrohnsAndColitis	block	2014-10-17 02:25:24	2014-10-17 02:25:34	2	-	-	-	-	01:59:08	01:59:38	full	CrohnsAndColitis	med
+machine	kkchang	CrohnsAndColitis	block	2014-10-17 02:25:34	2014-10-17 02:25:44	2	-	-	-	-	01:59:08	01:59:38	full	CrohnsAndColitis	med
+machine	kkchang	CrohnsAndColitis	block	2014-10-17 02:25:44	2014-10-17 02:25:54	2	-	-	-	-	01:59:08	01:59:38	full	CrohnsAndColitis	med
+machine	kkchang	Brett Favre Live	block	2014-10-17 02:25:55	2014-10-17 02:25:58	2	-	-	-	-	01:59:39	01:59:42	pregame	Brett Favre Live	nfl
+machine	kkchang	NFL Game Day Morning	block	2014-10-17 02:25:59	2014-10-17 02:26:04	2	-	-	-	-	01:59:43	01:59:48	pregame	NFL Game Day Morning	nfl
+machine	kkchang	End of video 1	block	2014-10-17 02:26:17	2014-10-17 02:26:18	1	Neutral	End of video 1	19:17	3RD 04:58	02:00:01	02:00:02	-	-	-
+machine	kkchang	Start of video 2	block	2014-10-17 02:36:56	2014-10-17 02:36:57	1	Neutral	Start of video 2	?	?	00:00:00	00:00:01	-	-	-
+machine	kkchang	McDonalds	block	2014-10-17 02:36:56	2014-10-17 02:36:59	2	-	-	-	-	00:00:00	00:00:03	full	McDonalds	food
+machine	kkchang	Statefarm	block	2014-10-17 02:36:59	2014-10-17 02:37:00	2	-	-	-	-	00:00:03	00:00:04	full	Statefarm	insurance
+machine	kkchang	Start of video 3	block	2014-10-17 02:37:50	2014-10-17 02:37:51	1	Neutral	Start of video 3	19:20	3RD 01:09	00:00:00	00:00:01	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:37:51	2014-10-17 02:38:01	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:38:01	2014-10-17 02:38:11	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:38:11	2014-10-17 02:38:21	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:38:21	2014-10-17 02:38:31	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:38:31	2014-10-17 02:38:41	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:38:41	2014-10-17 02:38:51	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:38:51	2014-10-17 02:39:01	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:39:01	2014-10-17 02:39:11	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:39:11	2014-10-17 02:39:21	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:39:21	2014-10-17 02:39:31	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:39:31	2014-10-17 02:39:41	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:39:41	2014-10-17 02:39:51	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:39:51	2014-10-17 02:40:01	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:40:01	2014-10-17 02:40:11	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:40:11	2014-10-17 02:40:21	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:40:21	2014-10-17 02:40:28	1	-	Game	-	-	00:00:01	00:02:38	-	-	-
+machine	kkchang	CSI	block	2014-10-17 02:40:28	2014-10-17 02:40:38	2	-	-	-	-	00:02:38	00:02:48	full	CSI	tv
+machine	kkchang	Macarthy's	block	2014-10-17 02:40:38	2014-10-17 02:40:43	2	-	-	-	-	00:02:48	00:02:53	full	Macarthy's	tv
+machine	kkchang	Toyota	block	2014-10-17 02:40:43	2014-10-17 02:40:53	2	-	-	-	-	00:02:53	00:03:23	full	Toyota	car
+machine	kkchang	Toyota	block	2014-10-17 02:40:53	2014-10-17 02:41:03	2	-	-	-	-	00:02:53	00:03:23	full	Toyota	car
+machine	kkchang	Toyota	block	2014-10-17 02:41:03	2014-10-17 02:41:13	2	-	-	-	-	00:02:53	00:03:23	full	Toyota	car
+machine	kkchang	Sheetz	block	2014-10-17 02:41:13	2014-10-17 02:41:23	2	-	-	-	-	00:03:23	00:03:53	full	Sheetz	food
+machine	kkchang	Sheetz	block	2014-10-17 02:41:23	2014-10-17 02:41:33	2	-	-	-	-	00:03:23	00:03:53	full	Sheetz	food
+machine	kkchang	Sheetz	block	2014-10-17 02:41:33	2014-10-17 02:41:43	2	-	-	-	-	00:03:23	00:03:53	full	Sheetz	food
+machine	kkchang	Magee's Health	block	2014-10-17 02:41:43	2014-10-17 02:41:53	2	-	-	-	-	00:03:53	00:04:23	full	Magee's Health	health
+machine	kkchang	Magee's Health	block	2014-10-17 02:41:53	2014-10-17 02:42:03	2	-	-	-	-	00:03:53	00:04:23	full	Magee's Health	health
+machine	kkchang	Magee's Health	block	2014-10-17 02:42:03	2014-10-17 02:42:13	2	-	-	-	-	00:03:53	00:04:23	full	Magee's Health	health
+machine	kkchang	KDKA	block	2014-10-17 02:42:13	2014-10-17 02:42:18	2	-	-	-	-	00:04:23	00:04:28	full	KDKA	tv
+machine	kkchang	NFL	block	2014-10-17 02:42:18	2014-10-17 02:42:28	2	-	-	-	-	00:04:28	00:04:59	full	NFL	nfl
+machine	kkchang	NFL	block	2014-10-17 02:42:28	2014-10-17 02:42:38	2	-	-	-	-	00:04:28	00:04:59	full	NFL	nfl
+machine	kkchang	NFL	block	2014-10-17 02:42:38	2014-10-17 02:42:48	2	-	-	-	-	00:04:28	00:04:59	full	NFL	nfl
+machine	kkchang	NFL	block	2014-10-17 02:42:48	2014-10-17 02:42:49	2	-	-	-	-	00:04:28	00:04:59	full	NFL	nfl
+machine	kkchang	Game	block	2014-10-17 02:42:49	2014-10-17 02:42:59	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:42:59	2014-10-17 02:43:09	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:43:09	2014-10-17 02:43:19	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:43:19	2014-10-17 02:43:29	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:43:29	2014-10-17 02:43:39	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:43:39	2014-10-17 02:43:49	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:43:49	2014-10-17 02:43:59	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:43:59	2014-10-17 02:44:09	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:44:09	2014-10-17 02:44:19	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:44:19	2014-10-17 02:44:29	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:44:29	2014-10-17 02:44:39	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:44:39	2014-10-17 02:44:43	1	-	Game	-	-	00:04:59	00:06:53	-	-	-
+machine	kkchang	Jeep Grand Cherokee	block	2014-10-17 02:44:43	2014-10-17 02:44:53	2	-	-	-	-	00:06:53	00:07:23	full	Jeep Grand Cherokee	car
+machine	kkchang	Jeep Grand Cherokee	block	2014-10-17 02:44:53	2014-10-17 02:45:03	2	-	-	-	-	00:06:53	00:07:23	full	Jeep Grand Cherokee	car
+machine	kkchang	Jeep Grand Cherokee	block	2014-10-17 02:45:03	2014-10-17 02:45:13	2	-	-	-	-	00:06:53	00:07:23	full	Jeep Grand Cherokee	car
+machine	kkchang	Cialis	block	2014-10-17 02:45:13	2014-10-17 02:45:23	2	-	-	-	-	00:07:23	00:08:23	full	Cialis	meds
+machine	kkchang	Cialis	block	2014-10-17 02:45:23	2014-10-17 02:45:33	2	-	-	-	-	00:07:23	00:08:23	full	Cialis	meds
+machine	kkchang	Cialis	block	2014-10-17 02:45:33	2014-10-17 02:45:43	2	-	-	-	-	00:07:23	00:08:23	full	Cialis	meds
+machine	kkchang	Cialis	block	2014-10-17 02:45:43	2014-10-17 02:45:53	2	-	-	-	-	00:07:23	00:08:23	full	Cialis	meds
+machine	kkchang	Cialis	block	2014-10-17 02:45:53	2014-10-17 02:46:03	2	-	-	-	-	00:07:23	00:08:23	full	Cialis	meds
+machine	kkchang	Cialis	block	2014-10-17 02:46:03	2014-10-17 02:46:13	2	-	-	-	-	00:07:23	00:08:23	full	Cialis	meds
+machine	kkchang	No More	block	2014-10-17 02:46:13	2014-10-17 02:46:23	2	-	-	-	-	00:08:23	00:08:38	full	No More	social
+machine	kkchang	No More	block	2014-10-17 02:46:23	2014-10-17 02:46:28	2	-	-	-	-	00:08:23	00:08:38	full	No More	social
+machine	kkchang	Game	block	2014-10-17 02:46:28	2014-10-17 02:46:38	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:46:38	2014-10-17 02:46:48	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:46:48	2014-10-17 02:46:58	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:46:58	2014-10-17 02:47:08	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:47:08	2014-10-17 02:47:18	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:47:18	2014-10-17 02:47:28	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:47:28	2014-10-17 02:47:38	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:47:38	2014-10-17 02:47:48	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:47:48	2014-10-17 02:47:58	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:47:58	2014-10-17 02:48:08	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:48:08	2014-10-17 02:48:18	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:48:18	2014-10-17 02:48:28	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:48:28	2014-10-17 02:48:38	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:48:38	2014-10-17 02:48:48	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:48:48	2014-10-17 02:48:58	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:48:58	2014-10-17 02:49:08	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:49:08	2014-10-17 02:49:18	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:49:18	2014-10-17 02:49:28	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:49:28	2014-10-17 02:49:38	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:49:38	2014-10-17 02:49:48	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:49:48	2014-10-17 02:49:58	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:49:58	2014-10-17 02:50:08	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:50:08	2014-10-17 02:50:18	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:50:18	2014-10-17 02:50:28	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:50:28	2014-10-17 02:50:38	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:50:38	2014-10-17 02:50:48	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:50:48	2014-10-17 02:50:58	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:50:58	2014-10-17 02:51:08	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:51:08	2014-10-17 02:51:18	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:51:18	2014-10-17 02:51:28	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:51:28	2014-10-17 02:51:38	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:51:38	2014-10-17 02:51:48	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:51:48	2014-10-17 02:51:58	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:51:58	2014-10-17 02:52:08	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:52:08	2014-10-17 02:52:18	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:52:18	2014-10-17 02:52:28	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:52:28	2014-10-17 02:52:38	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:52:38	2014-10-17 02:52:47	1	-	Game	-	-	00:08:38	00:14:57	-	-	-
+machine	kkchang	AARP	block	2014-10-17 02:52:47	2014-10-17 02:52:57	2	-	-	-	-	00:14:57	00:15:27	full	AARP	social
+machine	kkchang	AARP	block	2014-10-17 02:52:57	2014-10-17 02:53:07	2	-	-	-	-	00:14:57	00:15:27	full	AARP	social
+machine	kkchang	AARP	block	2014-10-17 02:53:07	2014-10-17 02:53:17	2	-	-	-	-	00:14:57	00:15:27	full	AARP	social
+machine	kkchang	Nationwide	block	2014-10-17 02:53:17	2014-10-17 02:53:27	2	-	-	-	-	00:15:27	00:15:57	full	Nationwide	insurance
+machine	kkchang	Nationwide	block	2014-10-17 02:53:27	2014-10-17 02:53:37	2	-	-	-	-	00:15:27	00:15:57	full	Nationwide	insurance
+machine	kkchang	Nationwide	block	2014-10-17 02:53:37	2014-10-17 02:53:47	2	-	-	-	-	00:15:27	00:15:57	full	Nationwide	insurance
+machine	kkchang	Chrysler	block	2014-10-17 02:53:47	2014-10-17 02:53:57	2	-	-	-	-	00:15:57	00:16:28	full	Chrysler	car
+machine	kkchang	Chrysler	block	2014-10-17 02:53:57	2014-10-17 02:54:07	2	-	-	-	-	00:15:57	00:16:28	full	Chrysler	car
+machine	kkchang	Chrysler	block	2014-10-17 02:54:07	2014-10-17 02:54:17	2	-	-	-	-	00:15:57	00:16:28	full	Chrysler	car
+machine	kkchang	Chrysler	block	2014-10-17 02:54:17	2014-10-17 02:54:18	2	-	-	-	-	00:15:57	00:16:28	full	Chrysler	car
+machine	kkchang	Verizon	block	2014-10-17 02:54:24	2014-10-17 02:54:29	2	-	-	-	-	00:16:34	00:16:39	pregame	Verizon	phone
+machine	kkchang	Lowes	block	2014-10-17 02:54:29	2014-10-17 02:54:34	2	-	-	-	-	00:16:39	00:16:44	pregame	Lowes	store
+machine	kkchang	Chick fil A	block	2014-10-17 02:54:34	2014-10-17 02:54:41	2	-	-	-	-	00:16:44	00:16:51	pregame	Chick fil A	food
+machine	kkchang	Game	block	2014-10-17 02:54:41	2014-10-17 02:54:51	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:54:51	2014-10-17 02:55:01	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:55:01	2014-10-17 02:55:11	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:55:11	2014-10-17 02:55:21	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:55:21	2014-10-17 02:55:31	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:55:31	2014-10-17 02:55:41	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:55:41	2014-10-17 02:55:51	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:55:51	2014-10-17 02:56:01	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:56:01	2014-10-17 02:56:11	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:56:11	2014-10-17 02:56:21	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:56:21	2014-10-17 02:56:31	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:56:31	2014-10-17 02:56:41	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:56:41	2014-10-17 02:56:51	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:56:51	2014-10-17 02:57:01	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:57:01	2014-10-17 02:57:11	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:57:11	2014-10-17 02:57:21	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:57:21	2014-10-17 02:57:31	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:57:31	2014-10-17 02:57:41	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:57:41	2014-10-17 02:57:51	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:57:51	2014-10-17 02:58:01	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:58:01	2014-10-17 02:58:11	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:58:11	2014-10-17 02:58:21	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:58:21	2014-10-17 02:58:31	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:58:31	2014-10-17 02:58:41	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:58:41	2014-10-17 02:58:51	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:58:51	2014-10-17 02:59:01	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:59:01	2014-10-17 02:59:11	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:59:11	2014-10-17 02:59:21	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:59:21	2014-10-17 02:59:31	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:59:31	2014-10-17 02:59:41	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:59:41	2014-10-17 02:59:51	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 02:59:51	2014-10-17 03:00:01	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:00:01	2014-10-17 03:00:11	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:00:11	2014-10-17 03:00:21	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:00:21	2014-10-17 03:00:31	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:00:31	2014-10-17 03:00:41	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:00:41	2014-10-17 03:00:51	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:00:51	2014-10-17 03:01:01	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:01:01	2014-10-17 03:01:11	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:01:11	2014-10-17 03:01:21	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:01:21	2014-10-17 03:01:31	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:01:31	2014-10-17 03:01:41	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:01:41	2014-10-17 03:01:51	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:01:51	2014-10-17 03:02:01	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:02:01	2014-10-17 03:02:11	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:02:11	2014-10-17 03:02:21	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:02:21	2014-10-17 03:02:31	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:02:31	2014-10-17 03:02:41	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:02:41	2014-10-17 03:02:51	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:02:51	2014-10-17 03:03:01	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:03:01	2014-10-17 03:03:11	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:03:11	2014-10-17 03:03:21	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:03:21	2014-10-17 03:03:31	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:03:31	2014-10-17 03:03:38	1	-	Game	-	-	00:16:51	00:25:48	-	-	-
+machine	kkchang	Ram	block	2014-10-17 03:03:38	2014-10-17 03:03:48	2	-	-	-	-	00:25:48	00:26:18	full	Ram	car
+machine	kkchang	Ram	block	2014-10-17 03:03:48	2014-10-17 03:03:58	2	-	-	-	-	00:25:48	00:26:18	full	Ram	car
+machine	kkchang	Ram	block	2014-10-17 03:03:58	2014-10-17 03:04:08	2	-	-	-	-	00:25:48	00:26:18	full	Ram	car
+machine	kkchang	Lowes	block	2014-10-17 03:04:08	2014-10-17 03:04:18	2	-	-	-	-	00:26:18	00:26:48	full	Lowes	store
+machine	kkchang	Lowes	block	2014-10-17 03:04:18	2014-10-17 03:04:28	2	-	-	-	-	00:26:18	00:26:48	full	Lowes	store
+machine	kkchang	Lowes	block	2014-10-17 03:04:28	2014-10-17 03:04:38	2	-	-	-	-	00:26:18	00:26:48	full	Lowes	store
+machine	kkchang	Amazon Fire	block	2014-10-17 03:04:38	2014-10-17 03:04:48	2	-	-	-	-	00:26:48	00:27:18	full	Amazon Fire	tech
+machine	kkchang	Amazon Fire	block	2014-10-17 03:04:48	2014-10-17 03:04:58	2	-	-	-	-	00:26:48	00:27:18	full	Amazon Fire	tech
+machine	kkchang	Amazon Fire	block	2014-10-17 03:04:58	2014-10-17 03:05:08	2	-	-	-	-	00:26:48	00:27:18	full	Amazon Fire	tech
+machine	kkchang	Finding Giants	block	2014-10-17 03:05:08	2014-10-17 03:05:18	2	-	-	-	-	00:27:18	00:27:34	full	Finding Giants	tv
+machine	kkchang	Finding Giants	block	2014-10-17 03:05:18	2014-10-17 03:05:24	2	-	-	-	-	00:27:18	00:27:34	full	Finding Giants	tv
+machine	kkchang	Game	block	2014-10-17 03:05:24	2014-10-17 03:05:34	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:05:34	2014-10-17 03:05:44	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:05:44	2014-10-17 03:05:54	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:05:54	2014-10-17 03:06:04	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:06:04	2014-10-17 03:06:14	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:06:14	2014-10-17 03:06:24	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:06:24	2014-10-17 03:06:34	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:06:34	2014-10-17 03:06:44	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:06:44	2014-10-17 03:06:54	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:06:54	2014-10-17 03:07:04	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:07:04	2014-10-17 03:07:14	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:07:14	2014-10-17 03:07:24	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:07:24	2014-10-17 03:07:34	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:07:34	2014-10-17 03:07:44	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:07:44	2014-10-17 03:07:54	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:07:54	2014-10-17 03:08:04	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:08:04	2014-10-17 03:08:14	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:08:14	2014-10-17 03:08:24	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:08:24	2014-10-17 03:08:34	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:08:34	2014-10-17 03:08:44	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:08:44	2014-10-17 03:08:54	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:08:54	2014-10-17 03:09:04	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:09:04	2014-10-17 03:09:14	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:09:14	2014-10-17 03:09:24	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:09:24	2014-10-17 03:09:34	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:09:34	2014-10-17 03:09:44	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:09:44	2014-10-17 03:09:54	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:09:54	2014-10-17 03:10:04	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:10:04	2014-10-17 03:10:14	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:10:14	2014-10-17 03:10:24	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:10:24	2014-10-17 03:10:34	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:10:34	2014-10-17 03:10:41	1	-	Game	-	-	00:27:34	00:32:51	-	-	-
+machine	kkchang	Mazda	block	2014-10-17 03:10:41	2014-10-17 03:10:50	2	-	-	-	-	00:32:51	00:33:00	logo	Mazda	car
+machine	kkchang	Game	block	2014-10-17 03:10:50	2014-10-17 03:11:00	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:11:00	2014-10-17 03:11:10	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:11:10	2014-10-17 03:11:20	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:11:20	2014-10-17 03:11:30	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:11:30	2014-10-17 03:11:40	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:11:40	2014-10-17 03:11:50	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:11:50	2014-10-17 03:12:00	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:12:00	2014-10-17 03:12:10	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:12:10	2014-10-17 03:12:20	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:12:20	2014-10-17 03:12:30	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:12:30	2014-10-17 03:12:40	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:12:40	2014-10-17 03:12:50	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:12:50	2014-10-17 03:13:00	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:13:00	2014-10-17 03:13:10	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:13:10	2014-10-17 03:13:20	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:13:20	2014-10-17 03:13:30	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:13:30	2014-10-17 03:13:40	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:13:40	2014-10-17 03:13:50	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:13:50	2014-10-17 03:14:00	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:14:00	2014-10-17 03:14:10	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:14:10	2014-10-17 03:14:20	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:14:20	2014-10-17 03:14:30	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:14:30	2014-10-17 03:14:40	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:14:40	2014-10-17 03:14:50	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:14:50	2014-10-17 03:15:00	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:15:00	2014-10-17 03:15:10	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:15:10	2014-10-17 03:15:20	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:15:20	2014-10-17 03:15:30	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:15:30	2014-10-17 03:15:40	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:15:40	2014-10-17 03:15:50	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:15:50	2014-10-17 03:15:55	1	-	Game	-	-	00:33:00	00:38:05	-	-	-
+machine	kkchang	Bud Light	block	2014-10-17 03:15:55	2014-10-17 03:16:05	2	-	-	-	-	00:38:05	00:38:35	full	Bud Light	beer
+machine	kkchang	Bud Light	block	2014-10-17 03:16:05	2014-10-17 03:16:15	2	-	-	-	-	00:38:05	00:38:35	full	Bud Light	beer
+machine	kkchang	Bud Light	block	2014-10-17 03:16:15	2014-10-17 03:16:25	2	-	-	-	-	00:38:05	00:38:35	full	Bud Light	beer
+machine	kkchang	T-Mobile	block	2014-10-17 03:16:25	2014-10-17 03:16:35	2	-	-	-	-	00:38:35	00:38:51	full	T-Mobile	phone
+machine	kkchang	T-Mobile	block	2014-10-17 03:16:35	2014-10-17 03:16:41	2	-	-	-	-	00:38:35	00:38:51	full	T-Mobile	phone
+machine	kkchang	Outback	block	2014-10-17 03:16:41	2014-10-17 03:16:51	2	-	-	-	-	00:38:51	00:39:06	full	Outback	food
+machine	kkchang	Outback	block	2014-10-17 03:16:51	2014-10-17 03:16:56	2	-	-	-	-	00:38:51	00:39:06	full	Outback	food
+machine	kkchang	Dodge	block	2014-10-17 03:16:56	2014-10-17 03:17:06	2	-	-	-	-	00:39:06	00:39:35	full	Dodge	car
+machine	kkchang	Dodge	block	2014-10-17 03:17:06	2014-10-17 03:17:16	2	-	-	-	-	00:39:06	00:39:35	full	Dodge	car
+machine	kkchang	Dodge	block	2014-10-17 03:17:16	2014-10-17 03:17:25	2	-	-	-	-	00:39:06	00:39:35	full	Dodge	car
+machine	kkchang	Late Show with David Letterman	block	2014-10-17 03:17:25	2014-10-17 03:17:35	2	-	-	-	-	00:39:35	00:39:46	full	Late Show with David Letterman	tv
+machine	kkchang	Late Show with David Letterman	block	2014-10-17 03:17:35	2014-10-17 03:17:36	2	-	-	-	-	00:39:35	00:39:46	full	Late Show with David Letterman	tv
+machine	kkchang	Dodge	block	2014-10-17 03:17:40	2014-10-17 03:17:45	2	-	-	-	-	00:39:50	00:39:55	full	Dodge	car
+machine	kkchang	Outback	block	2014-10-17 03:17:45	2014-10-17 03:17:52	2	-	-	-	-	00:39:55	00:40:02	full	Outback	food
+machine	kkchang	Game	block	2014-10-17 03:17:52	2014-10-17 03:18:02	1	-	Game	-	-	00:40:02	00:41:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:18:02	2014-10-17 03:18:12	1	-	Game	-	-	00:40:02	00:41:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:18:12	2014-10-17 03:18:22	1	-	Game	-	-	00:40:02	00:41:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:18:22	2014-10-17 03:18:32	1	-	Game	-	-	00:40:02	00:41:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:18:32	2014-10-17 03:18:42	1	-	Game	-	-	00:40:02	00:41:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:18:42	2014-10-17 03:18:52	1	-	Game	-	-	00:40:02	00:41:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:18:52	2014-10-17 03:19:02	1	-	Game	-	-	00:40:02	00:41:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:19:02	2014-10-17 03:19:12	1	-	Game	-	-	00:40:02	00:41:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:19:12	2014-10-17 03:19:22	1	-	Game	-	-	00:40:02	00:41:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:19:22	2014-10-17 03:19:32	1	-	Game	-	-	00:40:02	00:41:46	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:19:32	2014-10-17 03:19:36	1	-	Game	-	-	00:40:02	00:41:46	-	-	-
+machine	kkchang	Mazda	block	2014-10-17 03:19:36	2014-10-17 03:19:46	2	-	-	-	-	00:41:46	00:41:56	logo	Mazda	car
+machine	kkchang	Game	block	2014-10-17 03:19:46	2014-10-17 03:19:56	1	-	Game	-	-	00:41:56	00:43:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:19:56	2014-10-17 03:20:06	1	-	Game	-	-	00:41:56	00:43:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:20:06	2014-10-17 03:20:16	1	-	Game	-	-	00:41:56	00:43:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:20:16	2014-10-17 03:20:26	1	-	Game	-	-	00:41:56	00:43:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:20:26	2014-10-17 03:20:36	1	-	Game	-	-	00:41:56	00:43:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:20:36	2014-10-17 03:20:46	1	-	Game	-	-	00:41:56	00:43:03	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:20:46	2014-10-17 03:20:53	1	-	Game	-	-	00:41:56	00:43:03	-	-	-
+machine	kkchang	iPhone	block	2014-10-17 03:20:53	2014-10-17 03:21:03	2	-	-	-	-	00:43:03	00:43:32	full	iPhone	tech
+machine	kkchang	iPhone	block	2014-10-17 03:21:03	2014-10-17 03:21:13	2	-	-	-	-	00:43:03	00:43:32	full	iPhone	tech
+machine	kkchang	iPhone	block	2014-10-17 03:21:13	2014-10-17 03:21:22	2	-	-	-	-	00:43:03	00:43:32	full	iPhone	tech
+machine	kkchang	Geico	block	2014-10-17 03:21:22	2014-10-17 03:21:32	2	-	-	-	-	00:43:32	00:44:03	full	Geico	insurance
+machine	kkchang	Geico	block	2014-10-17 03:21:32	2014-10-17 03:21:42	2	-	-	-	-	00:43:32	00:44:03	full	Geico	insurance
+machine	kkchang	Geico	block	2014-10-17 03:21:42	2014-10-17 03:21:52	2	-	-	-	-	00:43:32	00:44:03	full	Geico	insurance
+machine	kkchang	Geico	block	2014-10-17 03:21:52	2014-10-17 03:21:53	2	-	-	-	-	00:43:32	00:44:03	full	Geico	insurance
+machine	kkchang	John Wick	block	2014-10-17 03:21:53	2014-10-17 03:22:03	2	-	-	-	-	00:44:03	00:44:18	full	John Wick	movie
+machine	kkchang	John Wick	block	2014-10-17 03:22:03	2014-10-17 03:22:08	2	-	-	-	-	00:44:03	00:44:18	full	John Wick	movie
+machine	kkchang	McDonalds	block	2014-10-17 03:22:08	2014-10-17 03:22:18	2	-	-	-	-	00:44:18	00:44:33	full	McDonalds	food
+machine	kkchang	McDonalds	block	2014-10-17 03:22:18	2014-10-17 03:22:23	2	-	-	-	-	00:44:18	00:44:33	full	McDonalds	food
+machine	kkchang	Scorpion	block	2014-10-17 03:22:23	2014-10-17 03:22:33	2	-	-	-	-	00:44:33	00:44:53	full	Scorpion	tv
+machine	kkchang	Scorpion	block	2014-10-17 03:22:33	2014-10-17 03:22:43	2	-	-	-	-	00:44:33	00:44:53	full	Scorpion	tv
+machine	kkchang	Game	block	2014-10-17 03:22:43	2014-10-17 03:22:53	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:22:53	2014-10-17 03:23:03	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:23:03	2014-10-17 03:23:13	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:23:13	2014-10-17 03:23:23	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:23:23	2014-10-17 03:23:33	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:23:33	2014-10-17 03:23:43	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:23:43	2014-10-17 03:23:53	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:23:53	2014-10-17 03:24:03	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:24:03	2014-10-17 03:24:13	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:24:13	2014-10-17 03:24:23	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:24:23	2014-10-17 03:24:33	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:24:33	2014-10-17 03:24:43	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:24:43	2014-10-17 03:24:53	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:24:53	2014-10-17 03:25:03	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:25:03	2014-10-17 03:25:13	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:25:13	2014-10-17 03:25:23	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:25:23	2014-10-17 03:25:33	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:25:33	2014-10-17 03:25:43	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:25:43	2014-10-17 03:25:53	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:25:53	2014-10-17 03:26:03	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:26:03	2014-10-17 03:26:13	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:26:13	2014-10-17 03:26:23	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:26:23	2014-10-17 03:26:33	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:26:33	2014-10-17 03:26:43	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:26:43	2014-10-17 03:26:53	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:26:53	2014-10-17 03:27:03	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:27:03	2014-10-17 03:27:13	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:27:13	2014-10-17 03:27:23	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:27:23	2014-10-17 03:27:33	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:27:33	2014-10-17 03:27:43	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:27:43	2014-10-17 03:27:53	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:27:53	2014-10-17 03:28:03	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:28:03	2014-10-17 03:28:13	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:28:13	2014-10-17 03:28:23	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:28:23	2014-10-17 03:28:33	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:28:33	2014-10-17 03:28:43	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:28:43	2014-10-17 03:28:53	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:28:53	2014-10-17 03:29:03	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:29:03	2014-10-17 03:29:13	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:29:13	2014-10-17 03:29:23	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:29:23	2014-10-17 03:29:33	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:29:33	2014-10-17 03:29:43	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:29:43	2014-10-17 03:29:53	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:29:53	2014-10-17 03:30:03	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:30:03	2014-10-17 03:30:13	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:30:13	2014-10-17 03:30:23	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Game	block	2014-10-17 03:30:23	2014-10-17 03:30:32	1	-	Game	-	-	00:44:53	00:52:42	-	-	-
+machine	kkchang	Mazda	block	2014-10-17 03:30:32	2014-10-17 03:30:38	2	-	-	-	-	00:52:42	00:52:48	logo	Mazda	car
+machine	kkchang	End of quarter	block	2014-10-17 03:29:14	2014-10-17 03:29:15	1	Neutral	End of quarter	25:27	3RD 00:00	00:51:24	00:51:25	-	-	-
